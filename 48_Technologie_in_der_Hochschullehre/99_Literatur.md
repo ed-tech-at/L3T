@@ -43,6 +43,10 @@
 
 - Ebner, M.; Schiefner, M. & Nagler, W. (2008). Has the Net-Generation Arrived at the University? – oder Studierende von Heute, Digital Natives? In: S. Zauchner, P. Baumgartner, E. Blaschitz & A. Weissenbäck (Hrsg.). Offener Bildungsraum Hochschule. Freiheiten und Notwendigkeiten., Medien in der Wissenschaft, 48. Münster: Waxmann, 113-123.
 
+- Ebner, M., & Schön, S. (2023). Digitale Transformation in der Hochschullehre. In C. von der Linden (Ed.), Digitale Transformation an österreichischen Hochschulen (pp. 98-105). Verlag der Technischen Universität Graz. URL: [https://doi.org/10.3217/978-3-85125-966-7-10]
+
+- Ebner, M., Schön, S., Dennerlein, S., & Edelsbrunner, S. (09 2022). Digitale Transformation der Hochschullehre – wann kommt. UZ (Magazin für Wissenschaft und Gesellschaft, S. 45-46.
+
 - Ferriman, J. (2013). Ed Tech Cheat Sheet. URL: [http://www.learndash.com/ed-tech-cheat-sheet-infographic/](http://www.learndash.com/ed-tech-cheat-sheet-infographic/) \[25-7-2013]
 
 - Flender, J. (2005). Didaktik der Hochschullehre. In: T. Stelzer-Rothe (Hrsg.), Kompetenzen in der Hochschullehre: Rüstzeug für gutes Lehren und Lernen an Hochschulen. Rinteln: Merkur, 170-205.
@@ -52,6 +56,8 @@
 - Hall, R. H.; Collier, H. L.; Thomas, M. L. & Hilgers, M. G. (2005). A Student Response System for Increasing Engagement, Motivation, and Learning in High Enrollment Lectures. URL: [http://lite.mst.edu/media/research/ctel/documents/hall\_et\_al\_srs\_amcis\_proceedings.pdf](http://lite.mst.edu/media/research/ctel/documents/hall\_et\_al\_srs\_amcis\_proceedings.pdf) \[2013-07-25]
 
 - Handke, J. & Schäfer, A. M. (2012). E-Learning, E-Teaching und E-Assessment in der Hochschullehre. Eine Anleitung. München: Oldenbourg Wissenschaftsverlag GmbH.
+
+- Kamsker, S., Lipp, S., Feuchter, T., & Slepcevic-Zach, P. (2022). Lehr-Lern-Settings auf Distanz – Chancen und Herausforderungen digitaler Hochschullehre. In R. Egger & S. Witzel (Hrsg.), Hybrid, flexibel und vernetzt? Möglichkeiten, Bedingungen und Grenzen von digitalen Lernumgebungen in der wissenschaftlichen Weiterbildung (S. 73–93). Springer VS. URL: [https://doi.org/10.1007/978-3-658-37204-0_5] 
 
 - Kopp, M. & Mittermeir, R. (2006). eLearning und Karriere. URL: [http://fnma.km.co.at/projekte/fnmstrategieprojekt/karriere/Dateiablage/view/EB\_WP3\_final.pdf](http://fnma.km.co.at/projekte/fnmstrategieprojekt/karriere/Dateiablage/view/EB\_WP3\_final.pdf) \[29.7.2013]
 
@@ -82,3 +88,8 @@
 - Van den Branden, J. (2004). Bologna and the challenges of e-learning and distance education: the contribution of non-classical learning and teaching forms to the emerging European Higher Education Area. Background Paper. Ghent: Bologna Follow-Up Seminar, URL: [http://www.bologna-bergen2005.no/EN/Bol\_sem/Seminars/040604Ghent/04060405-backgoundpaper.pdf](http://www.bologna-bergen2005.no/EN/Bol\_sem/Seminars/040604Ghent/04060405-backgoundpaper.pdf) \[11-10-2010]
 
 - Werner, B. (2006). Status des E-Learning an deutschen Hochschulen. Hrsg. v. www.e-teaching.org. URL: [http://www.e-teaching.org/projekt/fallstudien/](http://www.e-teaching.org/projekt/fallstudien/) Status\_des\_ELearning.pdf \[30-7-2013]
+
+- WU Wien. (April 2022). learn.wu.ac.at. Von https://learn.wu.ac.at/open/tlac/de/ug_novelle_2022 abgerufen
+
+
+

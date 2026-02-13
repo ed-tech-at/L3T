@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zugange-zum-lehrbuch -->
+<!-- slug: zugange-zum-lehrbuch -->
 <!-- filename: 05_Zugaenge_zum_Lehrbuch.md -->
 <!-- title: Zugänge zum Lehrbuch -->
 

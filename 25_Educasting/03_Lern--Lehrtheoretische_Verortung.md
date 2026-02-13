@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lern-lehrtheoretische-verortung -->
+<!-- slug: lern-lehrtheoretische-verortung -->
 <!-- filename: 03_Lern--Lehrtheoretische_Verortung.md -->
 <!-- title: Lern-/Lehrtheoretische Verortung -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lernmanagementsysteme-lernende-und-kurse-verwalten -->
+<!-- slug: lernmanagementsysteme-lernende-und-kurse-verwalten -->
 <!-- filename: 04_Lernmanagementsysteme_Lernende_und_Kurse_verwalten.md -->
 <!-- title: Lernmanagementsysteme: Lernende und Kurse verwalten -->
 

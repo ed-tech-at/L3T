@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/der-ubergang-zu-einer-neuen-sicht-auf-kognition-der-konnektionismus-und-die-simulation-neuronaler-prozesse -->
+<!-- slug: der-ubergang-zu-einer-neuen-sicht-auf-kognition-der-konnektionismus-und-die-simulation-neuronaler-prozesse -->
 <!-- filename: 05_Der_Uebergang_zu_einer_neuen_Sicht_auf_Kognition_Der_Konnektionismus_und_die_Simulation_neuronaler_Prozesse.md -->
 <!-- title: Der Übergang zu einer neuen Sicht auf Kognition: Der Konnektionismus und die Simulation neuronaler Prozesse -->
 

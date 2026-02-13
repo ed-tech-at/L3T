@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/mobiles-und-ubiquitares-lernen -->
+<!-- slug: mobiles-und-ubiquitares-lernen -->
 <!-- filename: 00_Mobiles_und_ubiquitaeres_Lernen.md -->
 <!-- title: Mobiles und ubiquitäres Lernen -->
 

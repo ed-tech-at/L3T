@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/einfuhrung-mediengestutzes-lernen-und-fernlernen -->
+<!-- slug: einfuhrung-mediengestutzes-lernen-und-fernlernen -->
 <!-- filename: 01_Einfuehrung_Mediengestuetzes_Lernen_und_Fernlernen.md -->
 <!-- title: Einführung: Mediengestützes Lernen und Fernlernen -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/sprechinhalte-erarbeiten-und-prasentieren -->
+<!-- slug: sprechinhalte-erarbeiten-und-prasentieren -->
 <!-- filename: 04_Sprechinhalte_erarbeiten_und_praesentieren.md -->
 <!-- title: Sprechinhalte erarbeiten und präsentieren -->
 

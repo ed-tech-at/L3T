@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ein-beispiel -->
+<!-- slug: ein-beispiel -->
 <!-- filename: 02_Ein_Beispiel.md -->
 <!-- title: Ein Beispiel -->
 

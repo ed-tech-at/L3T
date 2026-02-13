@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/eine-handlungslogik-fur-die-gestaltung-didaktischer-szenarien -->
+<!-- slug: eine-handlungslogik-fur-die-gestaltung-didaktischer-szenarien -->
 <!-- filename: 03_Eine_Handlungslogik_fuer_die_Gestaltung_didaktischer_Szenarien.md -->
 <!-- title: Eine Handlungslogik für die Gestaltung didaktischer Szenarien -->
 

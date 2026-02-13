@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ausgangspunkt-e-learning-als-bildungsinnovation-einfuhren -->
+<!-- slug: ausgangspunkt-e-learning-als-bildungsinnovation-einfuhren -->
 <!-- filename: 01_Ausgangspunkt_E-Learning_als_Bildungsinnovation_einfuehren.md -->
 <!-- title: Ausgangspunkt: E-Learning als Bildungsinnovation einführen -->
 

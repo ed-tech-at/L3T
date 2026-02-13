@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/exemplarische-lehrkonzepte-von-fernuniversitaten -->
+<!-- slug: exemplarische-lehrkonzepte-von-fernuniversitaten -->
 <!-- filename: 04_Exemplarische_Lehrkonzepte_von_Fernuniversitaeten.md -->
 <!-- title: Exemplarische Lehrkonzepte von Fernuniversitäten -->
 

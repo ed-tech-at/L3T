@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/danke-danke-danke -->
+<!-- slug: danke-danke-danke -->
 <!-- filename: 11_Danke_danke_danke.md -->
 <!-- title: Danke, danke, danke! -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/begriffserklarung -->
+<!-- slug: begriffserklarung -->
 <!-- filename: 01_Begriffserklaerung.md -->
 <!-- title: Begriffserklärung -->
 

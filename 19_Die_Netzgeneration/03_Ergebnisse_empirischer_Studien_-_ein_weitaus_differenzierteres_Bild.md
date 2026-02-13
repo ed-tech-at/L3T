@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ergebnisse-empirischer-studien-ein-weitaus-differenzierteres-bild -->
+<!-- slug: ergebnisse-empirischer-studien-ein-weitaus-differenzierteres-bild -->
 <!-- filename: 03_Ergebnisse_empirischer_Studien_-_ein_weitaus_differenzierteres_Bild.md -->
 <!-- title: Ergebnisse empirischer Studien – ein weitaus differenzierteres Bild -->
 

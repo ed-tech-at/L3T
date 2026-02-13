@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/fazit-S0Q -->
+<!-- slug: fazit-S0Q -->
 <!-- filename: 06_Fazit.md -->
 <!-- title: Fazit -->
 

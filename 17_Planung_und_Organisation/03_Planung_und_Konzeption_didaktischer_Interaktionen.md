@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/planung-und-konzeption-didaktischer-interaktionen -->
+<!-- slug: planung-und-konzeption-didaktischer-interaktionen -->
 <!-- filename: 03_Planung_und_Konzeption_didaktischer_Interaktionen.md -->
 <!-- title: Planung und Konzeption didaktischer Interaktionen -->
 

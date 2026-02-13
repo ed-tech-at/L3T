@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/instruktionale-prinzipien-zum-multimedialen-lernen -->
+<!-- slug: instruktionale-prinzipien-zum-multimedialen-lernen -->
 <!-- filename: 04_Instruktionale_Prinzipien_zum_multimedialen_Lernen.md -->
 <!-- title: Instruktionale Prinzipien zum multimedialen Lernen -->
 

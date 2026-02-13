@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/literatur-hX0 -->
+<!-- slug: literatur-hX0 -->
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 

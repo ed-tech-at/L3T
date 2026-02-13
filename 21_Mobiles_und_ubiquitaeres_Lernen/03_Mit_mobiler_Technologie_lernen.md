@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/mit-mobiler-technologie-lernen -->
+<!-- slug: mit-mobiler-technologie-lernen -->
 <!-- filename: 03_Mit_mobiler_Technologie_lernen.md -->
 <!-- title: Mit mobiler Technologie lernen -->
 

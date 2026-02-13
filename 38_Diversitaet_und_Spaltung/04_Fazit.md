@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/fazit-tFT -->
+<!-- slug: fazit-tFT -->
 <!-- filename: 04_Fazit.md -->
 <!-- title: Fazit -->
 

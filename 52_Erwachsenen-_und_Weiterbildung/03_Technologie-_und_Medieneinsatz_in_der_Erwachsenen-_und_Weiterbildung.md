@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/technologie-und-medieneinsatz-in-der-erwachsenen-und-weiterbildung -->
+<!-- slug: technologie-und-medieneinsatz-in-der-erwachsenen-und-weiterbildung -->
 <!-- filename: 03_Technologie-_und_Medieneinsatz_in_der_Erwachsenen-_und_Weiterbildung.md -->
 <!-- title: Technologie- und Medieneinsatz in der Erwachsenen- und Weiterbildung -->
 

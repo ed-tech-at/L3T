@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/offene-lehr-und-forschungsressourcen -->
+<!-- slug: offene-lehr-und-forschungsressourcen -->
 <!-- filename: 00_Offene_Lehr-_und_Forschungsressourcen.md -->
 <!-- title: Offene Lehr- und Forschungsressourcen -->
 

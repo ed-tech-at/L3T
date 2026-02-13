@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/traditionelle-wissenschaftliche-publikationen-und-der-einfluss-der-digitalisierung -->
+<!-- slug: traditionelle-wissenschaftliche-publikationen-und-der-einfluss-der-digitalisierung -->
 <!-- filename: 02_Traditionelle_wissenschaftliche_Publikationen_und_der_Einfluss_der_Digitalisierung.md -->
 <!-- title: Traditionelle wissenschaftliche Publikationen und der Einfluss der Digitalisierung -->
 

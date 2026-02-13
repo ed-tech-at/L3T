@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/bildungszyklus-als-ordnungsraster -->
+<!-- slug: bildungszyklus-als-ordnungsraster -->
 <!-- filename: 01_Bildungszyklus_als_Ordnungsraster.md -->
 <!-- title: Bildungszyklus als Ordnungsraster -->
 

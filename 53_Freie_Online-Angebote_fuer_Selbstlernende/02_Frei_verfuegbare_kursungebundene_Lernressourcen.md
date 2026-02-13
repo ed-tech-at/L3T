@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/frei-verfugbare-kursungebundene-lernressourcen -->
+<!-- slug: frei-verfugbare-kursungebundene-lernressourcen -->
 <!-- filename: 02_Frei_verfuegbare_kursungebundene_Lernressourcen.md -->
 <!-- title: Frei verfügbare, kursungebundene Lernressourcen -->
 

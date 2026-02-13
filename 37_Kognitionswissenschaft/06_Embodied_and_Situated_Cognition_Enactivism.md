@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/embodied-and-situated-cognition-enactivism -->
+<!-- slug: embodied-and-situated-cognition-enactivism -->
 <!-- filename: 06_Embodied_and_Situated_Cognition_Enactivism.md -->
 <!-- title: Embodied and Situated Cognition, Enactivism -->
 

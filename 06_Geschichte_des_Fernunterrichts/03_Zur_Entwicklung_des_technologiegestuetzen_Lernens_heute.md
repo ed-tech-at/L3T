@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zur-entwicklung-des-technologiegestutzen-lernens-heute -->
+<!-- slug: zur-entwicklung-des-technologiegestutzen-lernens-heute -->
 <!-- filename: 03_Zur_Entwicklung_des_technologiegestuetzen_Lernens_heute.md -->
 <!-- title: Zur Entwicklung des technologiegestützen Lernens heute -->
 

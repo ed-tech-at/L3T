@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/open-educational-resources-frei-verwendbare-lern-und-lehrmaterialien -->
+<!-- slug: open-educational-resources-frei-verwendbare-lern-und-lehrmaterialien -->
 <!-- filename: 05_Open_Educational_Resources_Frei_verwendbare_Lern-_und_Lehrmaterialien.md -->
 <!-- title: Open Educational Resources: Frei verwendbare Lern- und Lehrmaterialien -->
 

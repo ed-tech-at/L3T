@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/einleitung-gegenstand-sport-und-die-ambivalente-stellung-von-bildungstechnologien -->
+<!-- slug: einleitung-gegenstand-sport-und-die-ambivalente-stellung-von-bildungstechnologien -->
 <!-- filename: 01_Einleitung_Gegenstand_Sport_und_die_ambivalente_Stellung_von_Bildungstechnologien.md -->
 <!-- title: Einleitung: Gegenstand ‚Sport‘ und die ambivalente Stellung von Bildungstechnologien -->
 

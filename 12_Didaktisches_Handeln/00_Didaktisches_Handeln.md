@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/didaktisches-handeln -->
+<!-- slug: didaktisches-handeln -->
 <!-- filename: 00_Didaktisches_Handeln.md -->
 <!-- title: Didaktisches Handeln -->
 

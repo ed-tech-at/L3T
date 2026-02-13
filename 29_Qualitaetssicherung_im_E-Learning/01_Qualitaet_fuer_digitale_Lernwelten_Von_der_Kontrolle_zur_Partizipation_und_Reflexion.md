@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/qualitat-fur-digitale-lernwelten-von-der-kontrolle-zur-partizipation-und-reflexion -->
+<!-- slug: qualitat-fur-digitale-lernwelten-von-der-kontrolle-zur-partizipation-und-reflexion -->
 <!-- filename: 01_Qualitaet_fuer_digitale_Lernwelten_Von_der_Kontrolle_zur_Partizipation_und_Reflexion.md -->
 <!-- title: Qualität für digitale Lernwelten: Von der Kontrolle zur Partizipation und Reflexion -->
 

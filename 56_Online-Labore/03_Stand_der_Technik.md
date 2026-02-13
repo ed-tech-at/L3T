@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/stand-der-technik -->
+<!-- slug: stand-der-technik -->
 <!-- filename: 03_Stand_der_Technik.md -->
 <!-- title: Stand der Technik -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/learning-analytics-la -->
+<!-- slug: learning-analytics-la -->
 <!-- filename: 03_Learning_Analytics_LA.md -->
 <!-- title: Learning Analytics (LA) -->
 

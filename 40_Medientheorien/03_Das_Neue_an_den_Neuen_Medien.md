@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/das-neue-an-den-neuen-medien -->
+<!-- slug: das-neue-an-den-neuen-medien -->
 <!-- filename: 03_Das_Neue_an_den_Neuen_Medien.md -->
 <!-- title: Das Neue an den Neuen Medien -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/edm-und-la-im-spannungsfeld-des-datenschutzes -->
+<!-- slug: edm-und-la-im-spannungsfeld-des-datenschutzes -->
 <!-- filename: 04_EDM_und_LA_im_Spannungsfeld_des_Datenschutzes.md -->
 <!-- title: EDM und LA im Spannungsfeld des Datenschutzes -->
 

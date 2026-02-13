@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zentrale-erkenntnisse-97E -->
+<!-- slug: zentrale-erkenntnisse-97E -->
 <!-- filename: 07_Zentrale_Erkenntnisse.md -->
 <!-- title: Zentrale Erkenntnisse -->
 

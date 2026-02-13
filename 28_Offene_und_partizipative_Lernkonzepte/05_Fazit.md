@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/fazit-3CA -->
+<!-- slug: fazit-3CA -->
 <!-- filename: 05_Fazit.md -->
 <!-- title: Fazit -->
 

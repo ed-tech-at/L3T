@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/begrenzte-kognitive-ressourcen -->
+<!-- slug: begrenzte-kognitive-ressourcen -->
 <!-- filename: 03_Begrenzte_kognitive_Ressourcen.md -->
 <!-- title: Begrenzte kognitive Ressourcen -->
 

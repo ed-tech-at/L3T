@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/webbasiertes-lernen-in-unternehmen -->
+<!-- slug: webbasiertes-lernen-in-unternehmen -->
 <!-- filename: 00_Webbasiertes_Lernen_in_Unternehmen.md -->
 <!-- title: Webbasiertes Lernen in Unternehmen -->
 

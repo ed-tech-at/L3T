@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/gute-online-labore -->
+<!-- slug: gute-online-labore -->
 <!-- filename: 05_Gute_Online-Labore.md -->
 <!-- title: Gute Online-Labore -->
 

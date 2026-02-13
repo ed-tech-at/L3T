@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/erlaubte-nutzung-von-urheberrechtlich-geschutzten-werken -->
+<!-- slug: erlaubte-nutzung-von-urheberrechtlich-geschutzten-werken -->
 <!-- filename: 03_Erlaubte_Nutzung_von_urheberrechtlich_geschuetzten_Werken.md -->
 <!-- title: Erlaubte Nutzung von urheberrechtlich geschützten Werken -->
 

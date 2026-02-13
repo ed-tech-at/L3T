@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/begriff-und-geschichte -->
+<!-- slug: begriff-und-geschichte -->
 <!-- filename: 01_Begriff_und_Geschichte.md -->
 <!-- title: Begriff und Geschichte -->
 

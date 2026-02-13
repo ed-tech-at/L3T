@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/einfuhrung -->
+<!-- slug: einfuhrung -->
 <!-- filename: 00_Einfuehrung.md -->
 <!-- title: Einführung -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/konzepte-und-methoden-zur-qualitatsentwicklung-in-digitalen-lernwelten -->
+<!-- slug: konzepte-und-methoden-zur-qualitatsentwicklung-in-digitalen-lernwelten -->
 <!-- filename: 02_Konzepte_und_Methoden_zur_Qualitaetsentwicklung_in_digitalen_Lernwelten.md -->
 <!-- title: Konzepte und Methoden zur Qualitätsentwicklung in digitalen Lernwelten -->
 

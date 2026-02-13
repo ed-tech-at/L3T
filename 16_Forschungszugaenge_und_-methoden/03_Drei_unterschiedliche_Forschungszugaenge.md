@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/drei-unterschiedliche-forschungszugange -->
+<!-- slug: drei-unterschiedliche-forschungszugange -->
 <!-- filename: 03_Drei_unterschiedliche_Forschungszugaenge.md -->
 <!-- title: Drei unterschiedliche Forschungszugänge -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/bildungskontexte-fur-den-einsatz-von-educasts -->
+<!-- slug: bildungskontexte-fur-den-einsatz-von-educasts -->
 <!-- filename: 06_Bildungskontexte_fuer_den_Einsatz_von_Educasts.md -->
 <!-- title: Bildungskontexte für den Einsatz von Educasts -->
 

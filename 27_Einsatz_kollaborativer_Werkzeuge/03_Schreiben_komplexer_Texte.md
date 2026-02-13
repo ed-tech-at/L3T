@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/schreiben-komplexer-texte -->
+<!-- slug: schreiben-komplexer-texte -->
 <!-- filename: 03_Schreiben_komplexer_Texte.md -->
 <!-- title: Schreiben komplexer Texte -->
 

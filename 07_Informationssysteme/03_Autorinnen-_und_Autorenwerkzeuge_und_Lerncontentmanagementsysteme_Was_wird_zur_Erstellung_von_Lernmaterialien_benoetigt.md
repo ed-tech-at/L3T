@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/autorinnen-und-autorenwerkzeuge-und-lerncontentmanagementsysteme-was-wird-zur-erstellung-von-lernmaterialien-benotigt -->
+<!-- slug: autorinnen-und-autorenwerkzeuge-und-lerncontentmanagementsysteme-was-wird-zur-erstellung-von-lernmaterialien-benotigt -->
 <!-- filename: 03_Autorinnen-_und_Autorenwerkzeuge_und_Lerncontentmanagementsysteme_Was_wird_zur_Erstellung_von_Lernmaterialien_benoetigt.md -->
 <!-- title: Autorinnen- und Autorenwerkzeuge und Lerncontentmanagementsysteme: Was wird zur Erstellung von Lernmaterialien benötigt? -->
 

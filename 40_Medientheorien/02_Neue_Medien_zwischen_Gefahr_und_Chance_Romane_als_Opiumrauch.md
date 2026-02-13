@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/neue-medien-zwischen-gefahr-und-chance-romane-als-opiumrauch -->
+<!-- slug: neue-medien-zwischen-gefahr-und-chance-romane-als-opiumrauch -->
 <!-- filename: 02_Neue_Medien_zwischen_Gefahr_und_Chance_Romane_als_Opiumrauch.md -->
 <!-- title: Neue Medien zwischen Gefahr und Chance: Romane als Opiumrauch -->
 

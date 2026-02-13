@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/das-world-wide-web-www -->
+<!-- slug: das-world-wide-web-www -->
 <!-- filename: 03_Das_World_Wide_Web_WWW.md -->
 <!-- title: Das World Wide Web (WWW) -->
 

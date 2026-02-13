@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/stromungen-der-medienpadagogik -->
+<!-- slug: stromungen-der-medienpadagogik -->
 <!-- filename: 02_Stroemungen_der_Medienpaedagogik.md -->
 <!-- title: Strömungen der Medienpädagogik -->
 

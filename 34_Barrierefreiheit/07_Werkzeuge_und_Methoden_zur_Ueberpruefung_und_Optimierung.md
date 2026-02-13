@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/werkzeuge-und-methoden-zur-uberprufung-und-optimierung -->
+<!-- slug: werkzeuge-und-methoden-zur-uberprufung-und-optimierung -->
 <!-- filename: 07_Werkzeuge_und_Methoden_zur_Ueberpruefung_und_Optimierung.md -->
 <!-- title: Werkzeuge und Methoden zur Überprüfung und Optimierung -->
 

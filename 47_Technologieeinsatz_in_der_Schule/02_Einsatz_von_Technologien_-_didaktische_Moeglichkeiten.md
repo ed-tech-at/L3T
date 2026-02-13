@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/einsatz-von-technologien-didaktische-moglichkeiten -->
+<!-- slug: einsatz-von-technologien-didaktische-moglichkeiten -->
 <!-- filename: 02_Einsatz_von_Technologien_-_didaktische_Moeglichkeiten.md -->
 <!-- title: Einsatz von Technologien – didaktische Möglichkeiten -->
 

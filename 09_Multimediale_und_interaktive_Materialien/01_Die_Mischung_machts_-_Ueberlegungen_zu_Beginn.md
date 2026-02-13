@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/die-mischung-machts-uberlegungen-zu-beginn -->
+<!-- slug: die-mischung-machts-uberlegungen-zu-beginn -->
 <!-- filename: 01_Die_Mischung_machts_-_Ueberlegungen_zu_Beginn.md -->
 <!-- title: Die Mischung macht’s – Überlegungen zu Beginn -->
 

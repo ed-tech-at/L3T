@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/didaktisches-design-vom-lehren-zum-lernen -->
+<!-- slug: didaktisches-design-vom-lehren-zum-lernen -->
 <!-- filename: 02_Didaktisches_Design_-_vom_Lehren_zum_Lernen.md -->
 <!-- title: Didaktisches Design – vom Lehren zum Lernen? -->
 

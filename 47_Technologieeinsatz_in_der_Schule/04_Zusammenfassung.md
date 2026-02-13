@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zusammenfassung-At2 -->
+<!-- slug: zusammenfassung-At2 -->
 <!-- filename: 04_Zusammenfassung.md -->
 <!-- title: Zusammenfassung -->
 

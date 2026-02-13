@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/die-open-access-bewegung -->
+<!-- slug: die-open-access-bewegung -->
 <!-- filename: 03_Die_Open-Access-Bewegung.md -->
 <!-- title: Die Open-Access-Bewegung -->
 

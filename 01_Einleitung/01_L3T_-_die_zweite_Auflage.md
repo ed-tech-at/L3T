@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/l3t-die-zweite-auflage -->
+<!-- slug: l3t-die-zweite-auflage -->
 <!-- filename: 01_L3T_-_die_zweite_Auflage.md -->
 <!-- title: L3T – die zweite Auflage -->
 

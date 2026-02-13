@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/aktuelle-programme-zur-erstellung-von-lernmaterialien-und-deren-einbindung-in-lernmanagementsysteme -->
+<!-- slug: aktuelle-programme-zur-erstellung-von-lernmaterialien-und-deren-einbindung-in-lernmanagementsysteme -->
 <!-- filename: 04_Aktuelle_Programme_zur_Erstellung_von_Lernmaterialien_und_deren_Einbindung_in_Lernmanagementsysteme.md -->
 <!-- title: Aktuelle Programme zur Erstellung von Lernmaterialien und deren Einbindung in Lernmanagementsysteme -->
 

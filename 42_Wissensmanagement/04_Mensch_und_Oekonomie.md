@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/mensch-und-okonomie -->
+<!-- slug: mensch-und-okonomie -->
 <!-- filename: 04_Mensch_und_Oekonomie.md -->
 <!-- title: Mensch und Ökonomie -->
 

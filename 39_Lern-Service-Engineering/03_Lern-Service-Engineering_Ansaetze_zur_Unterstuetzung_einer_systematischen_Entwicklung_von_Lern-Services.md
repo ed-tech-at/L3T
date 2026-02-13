@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lern-service-engineering-ansatze-zur-unterstutzung-einer-systematischen-entwicklung-von-lern-services -->
+<!-- slug: lern-service-engineering-ansatze-zur-unterstutzung-einer-systematischen-entwicklung-von-lern-services -->
 <!-- filename: 03_Lern-Service-Engineering_Ansaetze_zur_Unterstuetzung_einer_systematischen_Entwicklung_von_Lern-Services.md -->
 <!-- title: Lern-Service-Engineering: Ansätze zur Unterstützung einer systematischen Entwicklung von Lern-Services -->
 

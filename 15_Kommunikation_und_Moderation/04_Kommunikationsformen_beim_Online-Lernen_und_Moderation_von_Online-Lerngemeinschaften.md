@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/kommunikationsformen-beim-online-lernen-und-moderation-von-online-lerngemeinschaften -->
+<!-- slug: kommunikationsformen-beim-online-lernen-und-moderation-von-online-lerngemeinschaften -->
 <!-- filename: 04_Kommunikationsformen_beim_Online-Lernen_und_Moderation_von_Online-Lerngemeinschaften.md -->
 <!-- title: Kommunikationsformen beim Online-Lernen und Moderation von Online-Lerngemeinschaften -->
 

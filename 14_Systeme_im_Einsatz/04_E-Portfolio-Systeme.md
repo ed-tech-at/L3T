@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/e-portfolio-systeme -->
+<!-- slug: e-portfolio-systeme -->
 <!-- filename: 04_E-Portfolio-Systeme.md -->
 <!-- title: E-Portfolio-Systeme -->
 

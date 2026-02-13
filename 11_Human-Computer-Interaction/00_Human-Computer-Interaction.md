@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/human-computer-interaction -->
+<!-- slug: human-computer-interaction -->
 <!-- filename: 00_Human-Computer-Interaction.md -->
 <!-- title: Human-Computer-Interaction -->
 

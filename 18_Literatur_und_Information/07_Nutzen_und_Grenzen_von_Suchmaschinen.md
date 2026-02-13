@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/nutzen-und-grenzen-von-suchmaschinen -->
+<!-- slug: nutzen-und-grenzen-von-suchmaschinen -->
 <!-- filename: 07_Nutzen_und_Grenzen_von_Suchmaschinen.md -->
 <!-- title: Nutzen und Grenzen von Suchmaschinen -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/gesetzliche-rahmenbedingungen-und-richtlinien-standards-zur-umsetzung -->
+<!-- slug: gesetzliche-rahmenbedingungen-und-richtlinien-standards-zur-umsetzung -->
 <!-- filename: 04_Gesetzliche_Rahmenbedingungen_und_Richtlinien_-_Standards_zur_Umsetzung.md -->
 <!-- title: Gesetzliche Rahmenbedingungen und Richtlinien / Standards zur Umsetzung -->
 

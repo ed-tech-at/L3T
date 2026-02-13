@@ -1,3 +1,4 @@
+<!-- slug: l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien -->
 <!-- filename: 00_Beschreibung.md -->
 <!-- title: L3T - Lehrbuch für Lernen und Lehren mit Technologien -->
 

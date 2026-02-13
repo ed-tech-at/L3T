@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/erweiterungen-des-btx -->
+<!-- slug: erweiterungen-des-btx -->
 <!-- filename: 03_Erweiterungen_des_BTX.md -->
 <!-- title: Erweiterungen des BTX -->
 

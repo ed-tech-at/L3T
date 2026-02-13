@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/dokumentieren-und-kommunizieren-von-gruppenprozessen -->
+<!-- slug: dokumentieren-und-kommunizieren-von-gruppenprozessen -->
 <!-- filename: 07_Dokumentieren_und_Kommunizieren_von_Gruppenprozessen.md -->
 <!-- title: Dokumentieren und Kommunizieren von Gruppenprozessen -->
 

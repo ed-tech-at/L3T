@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/exkurs-scorm-der-versuch-einer-vereinheitlichung-von-online-inhalten -->
+<!-- slug: exkurs-scorm-der-versuch-einer-vereinheitlichung-von-online-inhalten -->
 <!-- filename: 02_Exkurs_SCORM_-_Der_Versuch_einer_Vereinheitlichung_von_Online-Inhalten.md -->
 <!-- title: Exkurs: SCORM - Der Versuch einer Vereinheitlichung von Online-Inhalten -->
 

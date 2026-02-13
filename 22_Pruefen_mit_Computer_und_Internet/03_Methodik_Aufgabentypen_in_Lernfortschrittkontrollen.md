@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/methodik-aufgabentypen-in-lernfortschrittkontrollen -->
+<!-- slug: methodik-aufgabentypen-in-lernfortschrittkontrollen -->
 <!-- filename: 03_Methodik_Aufgabentypen_in_Lernfortschrittkontrollen.md -->
 <!-- title: Methodik: Aufgabentypen in Lernfortschrittkontrollen -->
 

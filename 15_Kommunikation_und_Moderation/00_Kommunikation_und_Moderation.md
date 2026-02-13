@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/kommunikation-und-moderation -->
+<!-- slug: kommunikation-und-moderation -->
 <!-- filename: 00_Kommunikation_und_Moderation.md -->
 <!-- title: Kommunikation und Moderation -->
 

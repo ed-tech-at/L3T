@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/metaphern-medien-und-dekonstruktion-there-is-nothing-outside-the-text -->
+<!-- slug: metaphern-medien-und-dekonstruktion-there-is-nothing-outside-the-text -->
 <!-- filename: 01_Metaphern_Medien_und_Dekonstruktion_There_is_nothing_outside_the_text.md -->
 <!-- title: Metaphern, Medien und Dekonstruktion: „There is nothing outside the text“ -->
 

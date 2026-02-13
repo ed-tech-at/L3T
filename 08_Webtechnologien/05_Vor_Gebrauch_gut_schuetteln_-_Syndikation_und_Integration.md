@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/vor-gebrauch-gut-schutteln-syndikation-und-integration -->
+<!-- slug: vor-gebrauch-gut-schutteln-syndikation-und-integration -->
 <!-- filename: 05_Vor_Gebrauch_gut_schuetteln_-_Syndikation_und_Integration.md -->
 <!-- title: Vor Gebrauch gut schütteln — Syndikation und Integration -->
 

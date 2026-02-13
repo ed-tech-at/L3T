@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/literatur-und-information -->
+<!-- slug: literatur-und-information -->
 <!-- filename: 00_Literatur_und_Information.md -->
 <!-- title: Literatur und Information -->
 

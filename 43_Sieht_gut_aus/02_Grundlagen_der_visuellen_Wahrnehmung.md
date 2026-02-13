@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/grundlagen-der-visuellen-wahrnehmung -->
+<!-- slug: grundlagen-der-visuellen-wahrnehmung -->
 <!-- filename: 02_Grundlagen_der_visuellen_Wahrnehmung.md -->
 <!-- title: Grundlagen der visuellen Wahrnehmung -->
 

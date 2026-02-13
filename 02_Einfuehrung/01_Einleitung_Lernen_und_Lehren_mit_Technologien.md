@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/einleitung-lernen-und-lehren-mit-technologien -->
+<!-- slug: einleitung-lernen-und-lehren-mit-technologien -->
 <!-- filename: 01_Einleitung_Lernen_und_Lehren_mit_Technologien.md -->
 <!-- title: Einleitung: Lernen und Lehren mit Technologien -->
 

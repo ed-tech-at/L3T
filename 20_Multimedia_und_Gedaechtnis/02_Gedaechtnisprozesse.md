@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/gedachtnisprozesse -->
+<!-- slug: gedachtnisprozesse -->
 <!-- filename: 02_Gedaechtnisprozesse.md -->
 <!-- title: Gedächtnisprozesse -->
 

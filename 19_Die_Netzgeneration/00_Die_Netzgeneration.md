@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/die-netzgeneration -->
+<!-- slug: die-netzgeneration -->
 <!-- filename: 00_Die_Netzgeneration.md -->
 <!-- title: Die „Netzgeneration“ -->
 

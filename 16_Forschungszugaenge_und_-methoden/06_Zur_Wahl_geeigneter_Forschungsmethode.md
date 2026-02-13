@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zur-wahl-geeigneter-forschungsmethode -->
+<!-- slug: zur-wahl-geeigneter-forschungsmethode -->
 <!-- filename: 06_Zur_Wahl_geeigneter_Forschungsmethode.md -->
 <!-- title: Zur Wahl geeigneter Forschungsmethode -->
 

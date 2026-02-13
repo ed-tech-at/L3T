@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/datenkompression-bei-multimedialen-materialien -->
+<!-- slug: datenkompression-bei-multimedialen-materialien -->
 <!-- filename: 03_Datenkompression_bei_multimedialen_Materialien.md -->
 <!-- title: Datenkompression bei multimedialen Materialien -->
 

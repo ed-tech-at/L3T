@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/einfuhrung-in-die-applikationsentwicklung-fur-das-web -->
+<!-- slug: einfuhrung-in-die-applikationsentwicklung-fur-das-web -->
 <!-- filename: 04_Einfuehrung_in_die_Applikationsentwicklung_fuer_das_Web.md -->
 <!-- title: Einführung in die Applikationsentwicklung für das Web -->
 

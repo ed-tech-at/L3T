@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/qualitative-quantitative-und-methodenmix-verfahren -->
+<!-- slug: qualitative-quantitative-und-methodenmix-verfahren -->
 <!-- filename: 04_Qualitative_quantitative_und_Methodenmix-Verfahren.md -->
 <!-- title: Qualitative, quantitative und Methodenmix-Verfahren -->
 

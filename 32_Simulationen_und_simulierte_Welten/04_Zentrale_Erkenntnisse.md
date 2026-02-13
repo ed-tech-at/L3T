@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zentrale-erkenntnisse-KfR -->
+<!-- slug: zentrale-erkenntnisse-KfR -->
 <!-- filename: 04_Zentrale_Erkenntnisse.md -->
 <!-- title: Zentrale Erkenntnisse -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/fort-und-weiterbildungsmoglichkeiten-fur-fremdsprachenlehrerinnen-im-web -->
+<!-- slug: fort-und-weiterbildungsmoglichkeiten-fur-fremdsprachenlehrerinnen-im-web -->
 <!-- filename: 07_Fort-und_Weiterbildungsmoeglichkeiten_fuer_Fremdsprachenlehrer-innen_im_Web.md -->
 <!-- title: Fort-und Weiterbildungsmöglichkeiten für Fremdsprachenlehrer/innen im Web -->
 

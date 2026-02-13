@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/techniktheorien-in-bildungsprozessen -->
+<!-- slug: techniktheorien-in-bildungsprozessen -->
 <!-- filename: 02_Techniktheorien_in_Bildungsprozessen.md -->
 <!-- title: Techniktheorien in Bildungsprozessen -->
 

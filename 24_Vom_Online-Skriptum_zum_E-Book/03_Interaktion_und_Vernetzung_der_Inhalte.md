@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/interaktion-und-vernetzung-der-inhalte -->
+<!-- slug: interaktion-und-vernetzung-der-inhalte -->
 <!-- filename: 03_Interaktion_und_Vernetzung_der_Inhalte.md -->
 <!-- title: Interaktion und Vernetzung der Inhalte -->
 

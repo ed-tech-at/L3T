@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/sieht-gut-aus -->
+<!-- slug: sieht-gut-aus -->
 <!-- filename: 00_Sieht_gut_aus.md -->
 <!-- title: Sieht gut aus -->
 

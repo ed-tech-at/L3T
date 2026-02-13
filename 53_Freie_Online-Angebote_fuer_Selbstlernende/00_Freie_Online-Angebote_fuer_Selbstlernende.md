@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/freie-online-angebote-fur-selbstlernende -->
+<!-- slug: freie-online-angebote-fur-selbstlernende -->
 <!-- filename: 00_Freie_Online-Angebote_fuer_Selbstlernende.md -->
 <!-- title: Freie Online-Angebote für Selbstlernende -->
 

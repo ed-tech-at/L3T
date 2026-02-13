@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/digitale-werkzeuge-zum-speichern-und-wiederfinden-gefundener-informationen -->
+<!-- slug: digitale-werkzeuge-zum-speichern-und-wiederfinden-gefundener-informationen -->
 <!-- filename: 06_Digitale_Werkzeuge_zum_Speichern_und_Wiederfinden_gefundener_Informationen.md -->
 <!-- title: Digitale Werkzeuge zum Speichern und Wiederfinden gefundener Informationen -->
 

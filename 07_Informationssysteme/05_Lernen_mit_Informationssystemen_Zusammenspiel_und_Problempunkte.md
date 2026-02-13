@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lernen-mit-informationssystemen-zusammenspiel-und-problempunkte -->
+<!-- slug: lernen-mit-informationssystemen-zusammenspiel-und-problempunkte -->
 <!-- filename: 05_Lernen_mit_Informationssystemen_Zusammenspiel_und_Problempunkte.md -->
 <!-- title: Lernen mit Informationssystemen: Zusammenspiel und Problempunkte -->
 

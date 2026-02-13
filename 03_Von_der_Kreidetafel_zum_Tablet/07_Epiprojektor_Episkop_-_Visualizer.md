@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/epiprojektor-episkop-visualizer -->
+<!-- slug: epiprojektor-episkop-visualizer -->
 <!-- filename: 07_Epiprojektor_Episkop_-_Visualizer.md -->
 <!-- title: Epiprojektor (Episkop) / Visualizer -->
 

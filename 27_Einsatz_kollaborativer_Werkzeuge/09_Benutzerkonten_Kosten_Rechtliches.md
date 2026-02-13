@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/benutzerkonten-kosten-rechtliches -->
+<!-- slug: benutzerkonten-kosten-rechtliches -->
 <!-- filename: 09_Benutzerkonten_Kosten_Rechtliches.md -->
 <!-- title: Benutzerkonten, Kosten, Rechtliches -->
 

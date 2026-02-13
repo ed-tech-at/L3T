@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/klassifikation-und-anwendungsbeispiele -->
+<!-- slug: klassifikation-und-anwendungsbeispiele -->
 <!-- filename: 06_Klassifikation_und_Anwendungsbeispiele.md -->
 <!-- title: Klassifikation und Anwendungsbeispiele -->
 

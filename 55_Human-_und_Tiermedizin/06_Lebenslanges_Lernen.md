@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lebenslanges-lernen -->
+<!-- slug: lebenslanges-lernen -->
 <!-- filename: 06_Lebenslanges_Lernen.md -->
 <!-- title: Lebenslanges Lernen -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/was-sind-online-labore -->
+<!-- slug: was-sind-online-labore -->
 <!-- filename: 02_Was_sind_Online-Labore.md -->
 <!-- title: Was sind Online-Labore? -->
 

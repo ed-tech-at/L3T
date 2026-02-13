@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/grundsatzliches-verstandnis-von-barrierefreiheit-equality-e-quality -->
+<!-- slug: grundsatzliches-verstandnis-von-barrierefreiheit-equality-e-quality -->
 <!-- filename: 01_Grundsaetzliches_Verstaendnis_von_Barrierefreiheit_equality_=_e-quality.md -->
 <!-- title: Grundsätzliches Verständnis von Barrierefreiheit: „equality = e-quality“ -->
 

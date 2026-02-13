@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/l3t-20-organisation-ablauf-und-neues -->
+<!-- slug: l3t-20-organisation-ablauf-und-neues -->
 <!-- filename: 09_L3T_20_-_Organisation_Ablauf_und_Neues.md -->
 <!-- title: L3T 2.0 – Organisation, Ablauf und Neues -->
 

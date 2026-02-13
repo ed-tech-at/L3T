@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/standards-fur-lehr-und-lerntechnologien -->
+<!-- slug: standards-fur-lehr-und-lerntechnologien -->
 <!-- filename: 00_Standards_fuer_Lehr-_und_Lerntechnologien.md -->
 <!-- title: Standards für Lehr- und Lerntechnologien -->
 

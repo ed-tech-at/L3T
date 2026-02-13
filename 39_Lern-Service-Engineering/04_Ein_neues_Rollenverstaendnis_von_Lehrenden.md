@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ein-neues-rollenverstandnis-von-lehrenden -->
+<!-- slug: ein-neues-rollenverstandnis-von-lehrenden -->
 <!-- filename: 04_Ein_neues_Rollenverstaendnis_von_Lehrenden.md -->
 <!-- title: Ein neues Rollenverständnis von Lehrenden -->
 

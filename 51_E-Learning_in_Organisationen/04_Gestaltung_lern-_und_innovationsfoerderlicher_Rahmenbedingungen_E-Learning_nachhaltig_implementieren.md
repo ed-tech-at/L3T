@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/gestaltung-lern-und-innovationsforderlicher-rahmenbedingungen-e-learning-nachhaltig-implementieren -->
+<!-- slug: gestaltung-lern-und-innovationsforderlicher-rahmenbedingungen-e-learning-nachhaltig-implementieren -->
 <!-- filename: 04_Gestaltung_lern-_und_innovationsfoerderlicher_Rahmenbedingungen_E-Learning_nachhaltig_implementieren.md -->
 <!-- title: Gestaltung lern- und innovationsförderlicher Rahmenbedingungen: E-Learning nachhaltig implementieren -->
 

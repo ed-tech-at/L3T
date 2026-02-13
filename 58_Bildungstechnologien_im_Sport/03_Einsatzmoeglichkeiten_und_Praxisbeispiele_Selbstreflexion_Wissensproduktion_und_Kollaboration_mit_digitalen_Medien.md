@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/einsatzmoglichkeiten-und-praxisbeispiele-selbstreflexion-wissensproduktion-und-kollaboration-mit-digitalen-medien -->
+<!-- slug: einsatzmoglichkeiten-und-praxisbeispiele-selbstreflexion-wissensproduktion-und-kollaboration-mit-digitalen-medien -->
 <!-- filename: 03_Einsatzmoeglichkeiten_und_Praxisbeispiele_Selbstreflexion_Wissensproduktion_und_Kollaboration_mit_digitalen_Medien.md -->
 <!-- title: Einsatzmöglichkeiten und Praxisbeispiele: Selbstreflexion, Wissensproduktion und Kollaboration mit digitalen Medien -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/digitale-lehre-im-visier -->
+<!-- slug: digitale-lehre-im-visier -->
 <!-- filename: 01_Digitale_Lehre_im_Visier.md -->
 <!-- title: Digitale Lehre im Visier -->
 

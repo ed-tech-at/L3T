@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/game-based-learning -->
+<!-- slug: game-based-learning -->
 <!-- filename: 00_Game-Based_Learning.md -->
 <!-- title: Game-Based Learning -->
 

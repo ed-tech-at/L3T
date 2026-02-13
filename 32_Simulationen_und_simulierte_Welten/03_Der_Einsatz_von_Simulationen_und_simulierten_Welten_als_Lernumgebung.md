@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/der-einsatz-von-simulationen-und-simulierten-welten-als-lernumgebung -->
+<!-- slug: der-einsatz-von-simulationen-und-simulierten-welten-als-lernumgebung -->
 <!-- filename: 03_Der_Einsatz_von_Simulationen_und_simulierten_Welten_als_Lernumgebung.md -->
 <!-- title: Der Einsatz von Simulationen und simulierten Welten als Lernumgebung -->
 

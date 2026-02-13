@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/formales-lernen -->
+<!-- slug: formales-lernen -->
 <!-- filename: 02_Formales_Lernen.md -->
 <!-- title: Formales Lernen -->
 

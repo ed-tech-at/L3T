@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/e-reader-formate-und-html5 -->
+<!-- slug: e-reader-formate-und-html5 -->
 <!-- filename: 04_E-Reader-Formate_und_HTML5.md -->
 <!-- title: E-Reader-Formate und HTML5 -->
 

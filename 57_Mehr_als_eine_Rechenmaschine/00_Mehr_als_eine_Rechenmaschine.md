@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/mehr-als-eine-rechenmaschine -->
+<!-- slug: mehr-als-eine-rechenmaschine -->
 <!-- filename: 00_Mehr_als_eine_Rechenmaschine.md -->
 <!-- title: Mehr als eine Rechenmaschine -->
 

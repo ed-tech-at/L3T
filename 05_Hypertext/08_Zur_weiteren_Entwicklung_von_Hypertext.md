@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zur-weiteren-entwicklung-von-hypertext -->
+<!-- slug: zur-weiteren-entwicklung-von-hypertext -->
 <!-- filename: 08_Zur_weiteren_Entwicklung_von_Hypertext.md -->
 <!-- title: Zur weiteren Entwicklung von Hypertext -->
 

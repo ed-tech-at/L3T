@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/vorbereitung -->
+<!-- slug: vorbereitung -->
 <!-- filename: 02_Vorbereitung.md -->
 <!-- title: Vorbereitung -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/vorgehen-bei-der-erstellung-von-educasts -->
+<!-- slug: vorgehen-bei-der-erstellung-von-educasts -->
 <!-- filename: 02_Vorgehen_bei_der_Erstellung_von_Educasts.md -->
 <!-- title: Vorgehen bei der Erstellung von Educasts -->
 

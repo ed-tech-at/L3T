@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/forschungsdefizite-und-entwicklungsperspektiven -->
+<!-- slug: forschungsdefizite-und-entwicklungsperspektiven -->
 <!-- filename: 04_Forschungsdefizite_und_Entwicklungsperspektiven.md -->
 <!-- title: Forschungsdefizite und Entwicklungsperspektiven -->
 

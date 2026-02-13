@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/aktiv-kreativ-und-kooperativ-mit-medien-umgehen -->
+<!-- slug: aktiv-kreativ-und-kooperativ-mit-medien-umgehen -->
 <!-- filename: 03_Aktiv_kreativ_und_kooperativ_mit_Medien_umgehen.md -->
 <!-- title: Aktiv, kreativ und kooperativ mit Medien umgehen -->
 

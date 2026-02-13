@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/mythos-netzgeneration-zentrale-kritikpunkte-am-konzept -->
+<!-- slug: mythos-netzgeneration-zentrale-kritikpunkte-am-konzept -->
 <!-- filename: 02_Mythos_Netzgeneration_-_zentrale_Kritikpunkte_am_Konzept.md -->
 <!-- title: Mythos „Netzgeneration“ – zentrale Kritikpunkte am Konzept -->
 

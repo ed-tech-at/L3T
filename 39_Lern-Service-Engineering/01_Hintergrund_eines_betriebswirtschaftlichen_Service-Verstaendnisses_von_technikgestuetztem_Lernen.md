@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/hintergrund-eines-betriebswirtschaftlichen-service-verstandnisses-von-technikgestutztem-lernen -->
+<!-- slug: hintergrund-eines-betriebswirtschaftlichen-service-verstandnisses-von-technikgestutztem-lernen -->
 <!-- filename: 01_Hintergrund_eines_betriebswirtschaftlichen_Service-Verstaendnisses_von_technikgestuetztem_Lernen.md -->
 <!-- title: Hintergrund eines betriebswirtschaftlichen Service-Verständnisses von technikgestütztem Lernen -->
 

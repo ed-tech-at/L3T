@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lernen-mit-micro-blogs -->
+<!-- slug: lernen-mit-micro-blogs -->
 <!-- filename: 03_Lernen_mit_Micro--Blogs.md -->
 <!-- title: Lernen mit Micro-/Blogs -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/konsequenzen-fur-das-lehren-und-lernen-mit-technologien-diversitat-unterstutzen -->
+<!-- slug: konsequenzen-fur-das-lehren-und-lernen-mit-technologien-diversitat-unterstutzen -->
 <!-- filename: 04_Konsequenzen_fuer_das_Lehren_und_Lernen_mit_Technologien_-_Diversitaet_unterstuetzen.md -->
 <!-- title: Konsequenzen für das Lehren und Lernen mit Technologien – Diversität unterstützen -->
 

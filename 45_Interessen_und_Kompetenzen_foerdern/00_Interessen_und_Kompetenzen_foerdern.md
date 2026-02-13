@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/interessen-und-kompetenzen-fordern -->
+<!-- slug: interessen-und-kompetenzen-fordern -->
 <!-- filename: 00_Interessen_und_Kompetenzen_foerdern.md -->
 <!-- title: Interessen und Kompetenzen fördern -->
 

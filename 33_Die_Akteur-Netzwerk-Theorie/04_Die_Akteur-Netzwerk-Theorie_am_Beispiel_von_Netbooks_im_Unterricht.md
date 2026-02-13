@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/die-akteur-netzwerk-theorie-am-beispiel-von-netbooks-im-unterricht -->
+<!-- slug: die-akteur-netzwerk-theorie-am-beispiel-von-netbooks-im-unterricht -->
 <!-- filename: 04_Die_Akteur-Netzwerk-Theorie_am_Beispiel_von_Netbooks_im_Unterricht.md -->
 <!-- title: Die Akteur-Netzwerk-Theorie am Beispiel von Netbooks im Unterricht -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/konsequenzen-fur-lernen-und-lehren-mit-technologien-die-frage-des-adaquaten-wissensbegriffs -->
+<!-- slug: konsequenzen-fur-lernen-und-lehren-mit-technologien-die-frage-des-adaquaten-wissensbegriffs -->
 <!-- filename: 04_Konsequenzen_fuer_Lernen_und_Lehren_mit_Technologien_Die_Frage_des_adaequaten_Wissensbegriffs.md -->
 <!-- title: Konsequenzen für Lernen und Lehren mit Technologien: Die Frage des adäquaten Wissensbegriffs -->
 

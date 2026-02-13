@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/offene-online-kurse -->
+<!-- slug: offene-online-kurse -->
 <!-- filename: 03_Offene_Online-Kurse.md -->
 <!-- title: Offene Online-Kurse -->
 

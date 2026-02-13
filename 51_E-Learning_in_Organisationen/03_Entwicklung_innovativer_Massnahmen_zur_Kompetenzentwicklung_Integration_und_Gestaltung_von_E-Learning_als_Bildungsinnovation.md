@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/entwicklung-innovativer-massnahmen-zur-kompetenzentwicklung-integration-und-gestaltung-von-e-learning-als-bildungsinnovation -->
+<!-- slug: entwicklung-innovativer-massnahmen-zur-kompetenzentwicklung-integration-und-gestaltung-von-e-learning-als-bildungsinnovation -->
 <!-- filename: 03_Entwicklung_innovativer_Massnahmen_zur_Kompetenzentwicklung_Integration_und_Gestaltung_von_E-Learning_als_Bildungsinnovation.md -->
 <!-- title: Entwicklung innovativer Maßnahmen zur Kompetenzentwicklung: Integration und Gestaltung von E-Learning als Bildungsinnovation -->
 

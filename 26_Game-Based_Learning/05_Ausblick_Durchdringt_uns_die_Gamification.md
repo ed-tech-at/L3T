@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ausblick-durchdringt-uns-die-gamification -->
+<!-- slug: ausblick-durchdringt-uns-die-gamification -->
 <!-- filename: 05_Ausblick_Durchdringt_uns_die_Gamification.md -->
 <!-- title: Ausblick: Durchdringt uns die Gamification? -->
 

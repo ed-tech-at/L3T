@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zusammenfassung-QsW -->
+<!-- slug: zusammenfassung-QsW -->
 <!-- filename: 05_Zusammenfassung.md -->
 <!-- title: Zusammenfassung -->
 

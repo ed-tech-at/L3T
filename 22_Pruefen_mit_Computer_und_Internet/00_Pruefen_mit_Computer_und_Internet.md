@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/prufen-mit-computer-und-internet -->
+<!-- slug: prufen-mit-computer-und-internet -->
 <!-- filename: 00_Pruefen_mit_Computer_und_Internet.md -->
 <!-- title: Prüfen mit Computer und Internet -->
 

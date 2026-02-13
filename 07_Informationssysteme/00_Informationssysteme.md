@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/informationssysteme -->
+<!-- slug: informationssysteme -->
 <!-- filename: 00_Informationssysteme.md -->
 <!-- title: Informationssysteme -->
 

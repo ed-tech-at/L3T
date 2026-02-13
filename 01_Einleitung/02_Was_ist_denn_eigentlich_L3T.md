@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/was-ist-denn-eigentlich-l3t -->
+<!-- slug: was-ist-denn-eigentlich-l3t -->
 <!-- filename: 02_Was_ist_denn_eigentlich_L3T.md -->
 <!-- title: Was ist denn eigentlich „L3T“? -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lernmanagementsysteme -->
+<!-- slug: lernmanagementsysteme -->
 <!-- filename: 03_Lernmanagementsysteme.md -->
 <!-- title: Lernmanagementsysteme -->
 

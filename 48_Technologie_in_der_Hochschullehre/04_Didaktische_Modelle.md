@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/didaktische-modelle -->
+<!-- slug: didaktische-modelle -->
 <!-- filename: 04_Didaktische_Modelle.md -->
 <!-- title: Didaktische Modelle -->
 

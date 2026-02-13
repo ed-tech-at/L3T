@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ausblick-QNP -->
+<!-- slug: ausblick-QNP -->
 <!-- filename: 08_Ausblick.md -->
 <!-- title: Ausblick -->
 

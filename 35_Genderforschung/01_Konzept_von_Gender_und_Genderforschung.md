@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/konzept-von-gender-und-genderforschung -->
+<!-- slug: konzept-von-gender-und-genderforschung -->
 <!-- filename: 01_Konzept_von_Gender_und_Genderforschung.md -->
 <!-- title: Konzept von „Gender“ und Genderforschung -->
 

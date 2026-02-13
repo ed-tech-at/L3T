@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ausblick-erweiterung-der-lern-und-lehrmoglichkeiten -->
+<!-- slug: ausblick-erweiterung-der-lern-und-lehrmoglichkeiten -->
 <!-- filename: 07_Ausblick_Erweiterung_der_Lern-_und_Lehrmoeglichkeiten.md -->
 <!-- title: Ausblick: Erweiterung der Lern- und Lehrmöglichkeiten -->
 

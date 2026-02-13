@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/human-und-tiermedizin -->
+<!-- slug: human-und-tiermedizin -->
 <!-- filename: 00_Human-_und_Tiermedizin.md -->
 <!-- title: Human- und Tiermedizin -->
 

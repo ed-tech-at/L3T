@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/das-gesammelte-interpretieren -->
+<!-- slug: das-gesammelte-interpretieren -->
 <!-- filename: 00_Das_Gesammelte_interpretieren.md -->
 <!-- title: Das Gesammelte interpretieren -->
 

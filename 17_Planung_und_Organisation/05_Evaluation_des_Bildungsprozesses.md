@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/evaluation-des-bildungsprozesses -->
+<!-- slug: evaluation-des-bildungsprozesses -->
 <!-- filename: 05_Evaluation_des_Bildungsprozesses.md -->
 <!-- title: Evaluation des Bildungsprozesses -->
 

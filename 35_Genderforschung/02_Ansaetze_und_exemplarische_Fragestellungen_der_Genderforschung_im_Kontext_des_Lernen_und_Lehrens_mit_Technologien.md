@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ansatze-und-exemplarische-fragestellungen-der-genderforschung-im-kontext-des-lernen-und-lehrens-mit-technologien -->
+<!-- slug: ansatze-und-exemplarische-fragestellungen-der-genderforschung-im-kontext-des-lernen-und-lehrens-mit-technologien -->
 <!-- filename: 02_Ansaetze_und_exemplarische_Fragestellungen_der_Genderforschung_im_Kontext_des_Lernen_und_Lehrens_mit_Technologien.md -->
 <!-- title: Ansätze und exemplarische Fragestellungen der Genderforschung im Kontext des Lernen und Lehrens mit Technologien -->
 

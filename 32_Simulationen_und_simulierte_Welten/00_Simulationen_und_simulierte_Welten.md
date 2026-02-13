@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/simulationen-und-simulierte-welten -->
+<!-- slug: simulationen-und-simulierte-welten -->
 <!-- filename: 00_Simulationen_und_simulierte_Welten.md -->
 <!-- title: Simulationen und simulierte Welten -->
 

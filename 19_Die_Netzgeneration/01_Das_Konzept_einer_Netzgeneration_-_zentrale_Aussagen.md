@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/das-konzept-einer-netzgeneration-zentrale-aussagen -->
+<!-- slug: das-konzept-einer-netzgeneration-zentrale-aussagen -->
 <!-- filename: 01_Das_Konzept_einer_Netzgeneration_-_zentrale_Aussagen.md -->
 <!-- title: Das Konzept einer „Netzgeneration“ – zentrale Aussagen -->
 

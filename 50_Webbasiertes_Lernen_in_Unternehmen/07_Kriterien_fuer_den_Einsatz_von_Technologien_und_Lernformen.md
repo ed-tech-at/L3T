@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/kriterien-fur-den-einsatz-von-technologien-und-lernformen -->
+<!-- slug: kriterien-fur-den-einsatz-von-technologien-und-lernformen -->
 <!-- filename: 07_Kriterien_fuer_den_Einsatz_von_Technologien_und_Lernformen.md -->
 <!-- title: Kriterien für den Einsatz von Technologien und Lernformen -->
 

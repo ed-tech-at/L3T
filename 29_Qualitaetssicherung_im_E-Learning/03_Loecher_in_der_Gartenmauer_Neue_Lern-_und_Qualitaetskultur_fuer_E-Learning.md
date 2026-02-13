@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/locher-in-der-gartenmauer-neue-lern-und-qualitatskultur-fur-e-learning -->
+<!-- slug: locher-in-der-gartenmauer-neue-lern-und-qualitatskultur-fur-e-learning -->
 <!-- filename: 03_Loecher_in_der_Gartenmauer_Neue_Lern-_und_Qualitaetskultur_fuer_E-Learning.md -->
 <!-- title: „Löcher in der Gartenmauer“: Neue Lern- und Qualitätskultur für E-Learning -->
 

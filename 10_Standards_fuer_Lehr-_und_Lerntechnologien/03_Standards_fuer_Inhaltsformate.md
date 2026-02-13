@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/standards-fur-inhaltsformate -->
+<!-- slug: standards-fur-inhaltsformate -->
 <!-- filename: 03_Standards_fuer_Inhaltsformate.md -->
 <!-- title: Standards für Inhaltsformate -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zielgruppe-und-themenfeld -->
+<!-- slug: zielgruppe-und-themenfeld -->
 <!-- filename: 03_Zielgruppe_und_Themenfeld.md -->
 <!-- title: Zielgruppe und Themenfeld -->
 

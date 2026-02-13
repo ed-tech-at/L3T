@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/forschungszugange-und-methoden -->
+<!-- slug: forschungszugange-und-methoden -->
 <!-- filename: 00_Forschungszugaenge_und_-methoden.md -->
 <!-- title: Forschungszugänge und -methoden -->
 

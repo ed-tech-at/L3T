@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/und-so-geht-es-weiter -->
+<!-- slug: und-so-geht-es-weiter -->
 <!-- filename: 12_Und_so_geht_es_weiter.md -->
 <!-- title: Und so geht es weiter -->
 

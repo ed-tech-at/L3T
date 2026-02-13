@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/grundlage-des-lernens-mit-simulationen-und-simulierten-welten -->
+<!-- slug: grundlage-des-lernens-mit-simulationen-und-simulierten-welten -->
 <!-- filename: 02_Grundlage_des_Lernens_mit_Simulationen_und_simulierten_Welten.md -->
 <!-- title: Grundlage des Lernens mit Simulationen und simulierten Welten -->
 

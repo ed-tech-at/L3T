@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/die-lernformen-und-themengebiete -->
+<!-- slug: die-lernformen-und-themengebiete -->
 <!-- filename: 05_Die_Lernformen_und_Themengebiete.md -->
 <!-- title: Die Lernformen und Themengebiete -->
 

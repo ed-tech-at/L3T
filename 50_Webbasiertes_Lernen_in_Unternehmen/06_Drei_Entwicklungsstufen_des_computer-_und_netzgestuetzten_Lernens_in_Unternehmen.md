@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/drei-entwicklungsstufen-des-computer-und-netzgestutzten-lernens-in-unternehmen -->
+<!-- slug: drei-entwicklungsstufen-des-computer-und-netzgestutzten-lernens-in-unternehmen -->
 <!-- filename: 06_Drei_Entwicklungsstufen_des_computer-_und_netzgestuetzten_Lernens_in_Unternehmen.md -->
 <!-- title: Drei Entwicklungsstufen des computer- und netzgestützten Lernens in Unternehmen -->
 

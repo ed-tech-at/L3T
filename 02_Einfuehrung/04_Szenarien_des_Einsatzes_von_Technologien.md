@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/szenarien-des-einsatzes-von-technologien -->
+<!-- slug: szenarien-des-einsatzes-von-technologien -->
 <!-- filename: 04_Szenarien_des_Einsatzes_von_Technologien.md -->
 <!-- title: Szenarien des Einsatzes von Technologien -->
 

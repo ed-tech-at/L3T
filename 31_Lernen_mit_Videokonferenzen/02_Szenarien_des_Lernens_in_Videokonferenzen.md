@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/szenarien-des-lernens-in-videokonferenzen -->
+<!-- slug: szenarien-des-lernens-in-videokonferenzen -->
 <!-- filename: 02_Szenarien_des_Lernens_in_Videokonferenzen.md -->
 <!-- title: Szenarien des Lernens in Videokonferenzen -->
 

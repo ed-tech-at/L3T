@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/fremdsprachliche-schreibfahigkeit-entwickeln -->
+<!-- slug: fremdsprachliche-schreibfahigkeit-entwickeln -->
 <!-- filename: 05_Fremdsprachliche_Schreibfaehigkeit_entwickeln.md -->
 <!-- title: Fremdsprachliche Schreibfähigkeit entwickeln -->
 

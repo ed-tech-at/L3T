@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lernen-und-lehren -->
+<!-- slug: lernen-und-lehren -->
 <!-- filename: 03_Lernen_und_Lehren.md -->
 <!-- title: Lernen und Lehren -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/projektpartnerinnen-und-unterstutzerinnen -->
+<!-- slug: projektpartnerinnen-und-unterstutzerinnen -->
 <!-- filename: 10_Projektpartner-innen_und_Unterstuetzer-innen.md -->
 <!-- title: Projektpartner/innen und Unterstützer/innen -->
 

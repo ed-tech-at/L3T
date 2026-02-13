@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/didaktik-formen-und-funktionen-von-prufungen -->
+<!-- slug: didaktik-formen-und-funktionen-von-prufungen -->
 <!-- filename: 02_Didaktik_Formen_und_Funktionen_von_Pruefungen.md -->
 <!-- title: Didaktik: Formen und Funktionen von Prüfungen -->
 

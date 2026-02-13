@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/uber-bilder-audio-video-und-animationen-zu-interaktiven-lernmaterialien -->
+<!-- slug: uber-bilder-audio-video-und-animationen-zu-interaktiven-lernmaterialien -->
 <!-- filename: 02_Ueber_Bilder_Audio_Video_und_Animationen_zu_interaktiven_Lernmaterialien.md -->
 <!-- title: Über Bilder, Audio, Video und Animationen zu interaktiven Lernmaterialien -->
 

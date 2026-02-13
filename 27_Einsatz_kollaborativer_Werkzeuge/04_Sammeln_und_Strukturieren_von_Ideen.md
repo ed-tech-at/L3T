@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/sammeln-und-strukturieren-von-ideen -->
+<!-- slug: sammeln-und-strukturieren-von-ideen -->
 <!-- filename: 04_Sammeln_und_Strukturieren_von_Ideen.md -->
 <!-- title: Sammeln und Strukturieren von Ideen -->
 

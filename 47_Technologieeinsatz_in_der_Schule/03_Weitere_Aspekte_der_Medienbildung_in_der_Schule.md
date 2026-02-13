@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/weitere-aspekte-der-medienbildung-in-der-schule -->
+<!-- slug: weitere-aspekte-der-medienbildung-in-der-schule -->
 <!-- filename: 03_Weitere_Aspekte_der_Medienbildung_in_der_Schule.md -->
 <!-- title: Weitere Aspekte der Medienbildung in der Schule -->
 

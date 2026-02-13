@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/kognitionswissenschaft -->
+<!-- slug: kognitionswissenschaft -->
 <!-- filename: 00_Kognitionswissenschaft.md -->
 <!-- title: Kognitionswissenschaft -->
 

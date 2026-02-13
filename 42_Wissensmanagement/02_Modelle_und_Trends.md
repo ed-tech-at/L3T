@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/modelle-und-trends -->
+<!-- slug: modelle-und-trends -->
 <!-- filename: 02_Modelle_und_Trends.md -->
 <!-- title: Modelle und Trends -->
 

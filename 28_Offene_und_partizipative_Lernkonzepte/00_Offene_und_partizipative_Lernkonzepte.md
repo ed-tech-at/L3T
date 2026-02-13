@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/offene-und-partizipative-lernkonzepte -->
+<!-- slug: offene-und-partizipative-lernkonzepte -->
 <!-- filename: 00_Offene_und_partizipative_Lernkonzepte.md -->
 <!-- title: Offene und partizipative Lernkonzepte -->
 

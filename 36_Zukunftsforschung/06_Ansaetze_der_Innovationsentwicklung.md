@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ansatze-der-innovationsentwicklung -->
+<!-- slug: ansatze-der-innovationsentwicklung -->
 <!-- filename: 06_Ansaetze_der_Innovationsentwicklung.md -->
 <!-- title: Ansätze der Innovationsentwicklung -->
 

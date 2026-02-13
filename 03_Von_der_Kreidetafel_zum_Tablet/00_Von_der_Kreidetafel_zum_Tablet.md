@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/von-der-kreidetafel-zum-tablet -->
+<!-- slug: von-der-kreidetafel-zum-tablet -->
 <!-- filename: 00_Von_der_Kreidetafel_zum_Tablet.md -->
 <!-- title: Von der Kreidetafel zum Tablet -->
 

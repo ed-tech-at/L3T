@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/von-buzzwords-und-innovationen -->
+<!-- slug: von-buzzwords-und-innovationen -->
 <!-- filename: 02_Von_Buzzwords_und_Innovationen.md -->
 <!-- title: Von Buzzwords und Innovationen -->
 

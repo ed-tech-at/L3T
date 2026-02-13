@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/robnett-licklider-ted-nelson-und-sam-fedida -->
+<!-- slug: robnett-licklider-ted-nelson-und-sam-fedida -->
 <!-- filename: 01_Robnett_Licklider_Ted_Nelson_und_Sam_Fedida.md -->
 <!-- title: Robnett Licklider, Ted Nelson und Sam Fedida -->
 

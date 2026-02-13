@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/offenheit-von-lehr-und-forschungsressourcen-nur-ein-trend-oder-ein-neues-paradigma -->
+<!-- slug: offenheit-von-lehr-und-forschungsressourcen-nur-ein-trend-oder-ein-neues-paradigma -->
 <!-- filename: 06_Offenheit_von_Lehr-_und_Forschungsressourcen_nur_ein_Trend_oder_ein_neues_Paradigma.md -->
 <!-- title: Offenheit von Lehr- und Forschungsressourcen: nur ein Trend oder ein neues Paradigma? -->
 

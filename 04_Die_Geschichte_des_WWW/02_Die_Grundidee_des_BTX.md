@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/die-grundidee-des-btx -->
+<!-- slug: die-grundidee-des-btx -->
 <!-- filename: 02_Die_Grundidee_des_BTX.md -->
 <!-- title: Die Grundidee des BTX -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/aktuelle-trends-in-der-entwicklung-von-webanwendungen -->
+<!-- slug: aktuelle-trends-in-der-entwicklung-von-webanwendungen -->
 <!-- filename: 06_Aktuelle_Trends_in_der_Entwicklung_von_Webanwendungen.md -->
 <!-- title: Aktuelle Trends in der Entwicklung von Webanwendungen -->
 

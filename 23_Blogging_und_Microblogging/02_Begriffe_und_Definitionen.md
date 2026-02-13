@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/begriffe-und-definitionen -->
+<!-- slug: begriffe-und-definitionen -->
 <!-- filename: 02_Begriffe_und_Definitionen.md -->
 <!-- title: Begriffe und Definitionen -->
 

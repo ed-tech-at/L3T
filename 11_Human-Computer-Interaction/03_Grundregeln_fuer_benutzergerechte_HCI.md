@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/grundregeln-fur-benutzergerechte-hci -->
+<!-- slug: grundregeln-fur-benutzergerechte-hci -->
 <!-- filename: 03_Grundregeln_fuer_benutzergerechte_HCI.md -->
 <!-- title: Grundregeln für benutzergerechte HCI -->
 

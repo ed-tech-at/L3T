@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lernmethodische-kompetenz-starken -->
+<!-- slug: lernmethodische-kompetenz-starken -->
 <!-- filename: 04_Lernmethodische_Kompetenz_staerken.md -->
 <!-- title: Lernmethodische Kompetenz stärken -->
 

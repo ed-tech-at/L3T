@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/evaluation-der-ergebnisse -->
+<!-- slug: evaluation-der-ergebnisse -->
 <!-- filename: 04_Evaluation_der_Ergebnisse.md -->
 <!-- title: Evaluation der Ergebnisse -->
 

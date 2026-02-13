@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/personliche-lernumgebungen-ple -->
+<!-- slug: personliche-lernumgebungen-ple -->
 <!-- filename: 05_Persoenliche_Lernumgebungen_PLE.md -->
 <!-- title: Persönliche Lernumgebungen (PLE) -->
 

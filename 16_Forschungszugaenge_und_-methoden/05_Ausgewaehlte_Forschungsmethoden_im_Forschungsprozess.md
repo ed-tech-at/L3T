@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ausgewahlte-forschungsmethoden-im-forschungsprozess -->
+<!-- slug: ausgewahlte-forschungsmethoden-im-forschungsprozess -->
 <!-- filename: 05_Ausgewaehlte_Forschungsmethoden_im_Forschungsprozess.md -->
 <!-- title: Ausgewählte Forschungsmethoden im Forschungsprozess -->
 

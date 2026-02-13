@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/organisation-prozesse-computerunterstutzter-prufungen -->
+<!-- slug: organisation-prozesse-computerunterstutzter-prufungen -->
 <!-- filename: 04_Organisation_Prozesse_computerunterstuetzter_Pruefungen.md -->
 <!-- title: Organisation: Prozesse computerunterstützter Prüfungen -->
 

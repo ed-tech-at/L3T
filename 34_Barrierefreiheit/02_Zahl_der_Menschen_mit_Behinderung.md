@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zahl-der-menschen-mit-behinderung -->
+<!-- slug: zahl-der-menschen-mit-behinderung -->
 <!-- filename: 02_Zahl_der_Menschen_mit_Behinderung.md -->
 <!-- title: Zahl der Menschen mit Behinderung -->
 

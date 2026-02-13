@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/diskussion-e-learning-20 -->
+<!-- slug: diskussion-e-learning-20 -->
 <!-- filename: 05_Diskussion_E-Learning_20.md -->
 <!-- title: Diskussion: „E-Learning 2.0“ -->
 

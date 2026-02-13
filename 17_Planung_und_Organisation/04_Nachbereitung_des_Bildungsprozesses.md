@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/nachbereitung-des-bildungsprozesses -->
+<!-- slug: nachbereitung-des-bildungsprozesses -->
 <!-- filename: 04_Nachbereitung_des_Bildungsprozesses.md -->
 <!-- title: Nachbereitung des Bildungsprozesses -->
 

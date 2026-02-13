@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/qualitatssicherung-im-e-learning -->
+<!-- slug: qualitatssicherung-im-e-learning -->
 <!-- filename: 00_Qualitaetssicherung_im_E-Learning.md -->
 <!-- title: Qualitätssicherung im E-Learning -->
 

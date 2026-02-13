@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/technologieeinsatz-in-der-schule -->
+<!-- slug: technologieeinsatz-in-der-schule -->
 <!-- filename: 00_Technologieeinsatz_in_der_Schule.md -->
 <!-- title: Technologieeinsatz in der Schule -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/limitierung-konklusion -->
+<!-- slug: limitierung-konklusion -->
 <!-- filename: 04_Limitierung_Konklusion.md -->
 <!-- title: Limitierung, Konklusion -->
 

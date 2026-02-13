@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zusammenfassung-und-ausblick-aF2 -->
+<!-- slug: zusammenfassung-und-ausblick-aF2 -->
 <!-- filename: 07_Zusammenfassung_und_Ausblick.md -->
 <!-- title: Zusammenfassung und Ausblick -->
 

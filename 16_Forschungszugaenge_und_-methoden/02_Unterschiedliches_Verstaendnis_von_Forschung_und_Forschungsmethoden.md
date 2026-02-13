@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/unterschiedliches-verstandnis-von-forschung-und-forschungsmethoden -->
+<!-- slug: unterschiedliches-verstandnis-von-forschung-und-forschungsmethoden -->
 <!-- filename: 02_Unterschiedliches_Verstaendnis_von_Forschung_und_Forschungsmethoden.md -->
 <!-- title: Unterschiedliches Verständnis von Forschung und Forschungsmethoden -->
 

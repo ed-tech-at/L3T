@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/bildungsbedarf-bestimmen -->
+<!-- slug: bildungsbedarf-bestimmen -->
 <!-- filename: 02_Bildungsbedarf_bestimmen.md -->
 <!-- title: Bildungsbedarf bestimmen -->
 

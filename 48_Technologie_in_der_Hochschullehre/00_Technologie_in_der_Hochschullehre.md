@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/technologie-in-der-hochschullehre -->
+<!-- slug: technologie-in-der-hochschullehre -->
 <!-- filename: 00_Technologie_in_der_Hochschullehre.md -->
 <!-- title: Technologie in der Hochschullehre -->
 

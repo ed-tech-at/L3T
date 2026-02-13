@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lerntheorien-und-didaktisches-design-ein-fazit -->
+<!-- slug: lerntheorien-und-didaktisches-design-ein-fazit -->
 <!-- filename: 04_Lerntheorien_und_Didaktisches_Design_-_ein_Fazit.md -->
 <!-- title: Lerntheorien und Didaktisches Design – ein Fazit -->
 

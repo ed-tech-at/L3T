@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/erfolgreich-verbreitete-systeme -->
+<!-- slug: erfolgreich-verbreitete-systeme -->
 <!-- filename: 04_Erfolgreich_verbreitete_Systeme.md -->
 <!-- title: Erfolgreich verbreitete Systeme -->
 

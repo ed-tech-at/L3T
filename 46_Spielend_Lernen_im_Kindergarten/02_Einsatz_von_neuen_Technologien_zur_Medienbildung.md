@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/einsatz-von-neuen-technologien-zur-medienbildung -->
+<!-- slug: einsatz-von-neuen-technologien-zur-medienbildung -->
 <!-- filename: 02_Einsatz_von_neuen_Technologien_zur_Medienbildung.md -->
 <!-- title: Einsatz von neuen Technologien zur Medienbildung -->
 

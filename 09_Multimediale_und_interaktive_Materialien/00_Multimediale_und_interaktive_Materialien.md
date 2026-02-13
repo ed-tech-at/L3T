@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/multimediale-und-interaktive-materialien -->
+<!-- slug: multimediale-und-interaktive-materialien -->
 <!-- filename: 00_Multimediale_und_interaktive_Materialien.md -->
 <!-- title: Multimediale und interaktive Materialien -->
 

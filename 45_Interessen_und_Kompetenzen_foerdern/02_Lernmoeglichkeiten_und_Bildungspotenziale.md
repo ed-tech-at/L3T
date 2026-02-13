@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lernmoglichkeiten-und-bildungspotenziale -->
+<!-- slug: lernmoglichkeiten-und-bildungspotenziale -->
 <!-- filename: 02_Lernmoeglichkeiten_und_Bildungspotenziale.md -->
 <!-- title: Lernmöglichkeiten und Bildungspotenziale -->
 

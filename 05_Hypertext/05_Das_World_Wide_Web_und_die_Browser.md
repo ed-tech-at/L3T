@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/das-world-wide-web-und-die-browser -->
+<!-- slug: das-world-wide-web-und-die-browser -->
 <!-- filename: 05_Das_World_Wide_Web_und_die_Browser.md -->
 <!-- title: Das World Wide Web und die Browser -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/notwendige-kompetenzen-zum-selbstlernen-mit-freien-online-angeboten-und-anreizsysteme -->
+<!-- slug: notwendige-kompetenzen-zum-selbstlernen-mit-freien-online-angeboten-und-anreizsysteme -->
 <!-- filename: 04_Notwendige_Kompetenzen_zum_Selbstlernen_mit_freien_Online-Angeboten_und_Anreizsysteme.md -->
 <!-- title: Notwendige Kompetenzen zum Selbstlernen mit freien Online-Angeboten und Anreizsysteme -->
 

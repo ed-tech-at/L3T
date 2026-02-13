@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/grundlagen-des-wissensmanagements -->
+<!-- slug: grundlagen-des-wissensmanagements -->
 <!-- filename: 01_Grundlagen_des_Wissensmanagements.md -->
 <!-- title: Grundlagen des Wissensmanagements -->
 

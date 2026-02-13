@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/arten-der-behinderung-und-spezielle-bedurfnisse-hinsichtlich-barrierefreiheit -->
+<!-- slug: arten-der-behinderung-und-spezielle-bedurfnisse-hinsichtlich-barrierefreiheit -->
 <!-- filename: 03_Arten_der_Behinderung_und_spezielle_Beduerfnisse_hinsichtlich_Barrierefreiheit.md -->
 <!-- title: Arten der Behinderung und spezielle Bedürfnisse hinsichtlich Barrierefreiheit -->
 

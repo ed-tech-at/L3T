@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/der-durchbruch-des-www-und-wie-die-usa-die-fuhrung-ubernehmen -->
+<!-- slug: der-durchbruch-des-www-und-wie-die-usa-die-fuhrung-ubernehmen -->
 <!-- filename: 04_Der_Durchbruch_des_WWW_und_wie_die_USA_die_Fuehrung_uebernehmen.md -->
 <!-- title: Der Durchbruch des WWW und wie die USA die Führung übernehmen -->
 

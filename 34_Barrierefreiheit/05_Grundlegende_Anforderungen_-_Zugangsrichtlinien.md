@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/grundlegende-anforderungen-zugangsrichtlinien -->
+<!-- slug: grundlegende-anforderungen-zugangsrichtlinien -->
 <!-- filename: 05_Grundlegende_Anforderungen_-_Zugangsrichtlinien.md -->
 <!-- title: Grundlegende Anforderungen – Zugangsrichtlinien -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/faktoren-die-den-umgang-mit-technologien-im-kindergarten-beeinflussen -->
+<!-- slug: faktoren-die-den-umgang-mit-technologien-im-kindergarten-beeinflussen -->
 <!-- filename: 06_Faktoren_die_den_Umgang_mit_Technologien_im_Kindergarten_beeinflussen.md -->
 <!-- title: Faktoren die den Umgang mit Technologien im Kindergarten beeinflussen -->
 

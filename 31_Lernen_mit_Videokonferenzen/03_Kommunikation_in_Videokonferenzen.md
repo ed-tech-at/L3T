@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/kommunikation-in-videokonferenzen -->
+<!-- slug: kommunikation-in-videokonferenzen -->
 <!-- filename: 03_Kommunikation_in_Videokonferenzen.md -->
 <!-- title: Kommunikation in Videokonferenzen -->
 

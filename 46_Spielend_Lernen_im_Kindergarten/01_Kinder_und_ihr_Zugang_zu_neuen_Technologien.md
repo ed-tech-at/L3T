@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/kinder-und-ihr-zugang-zu-neuen-technologien -->
+<!-- slug: kinder-und-ihr-zugang-zu-neuen-technologien -->
 <!-- filename: 01_Kinder_und_ihr_Zugang_zu_neuen_Technologien.md -->
 <!-- title: Kinder und ihr Zugang zu neuen Technologien -->
 

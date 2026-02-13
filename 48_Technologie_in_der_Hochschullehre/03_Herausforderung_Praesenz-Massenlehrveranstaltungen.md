@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/herausforderung-prasenz-massenlehrveranstaltungen -->
+<!-- slug: herausforderung-prasenz-massenlehrveranstaltungen -->
 <!-- filename: 03_Herausforderung_Praesenz-Massenlehrveranstaltungen.md -->
 <!-- title: Herausforderung: Präsenz-Massenlehrveranstaltungen -->
 

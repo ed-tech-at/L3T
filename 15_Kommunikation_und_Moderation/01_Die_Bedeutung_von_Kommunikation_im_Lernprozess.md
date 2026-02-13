@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/die-bedeutung-von-kommunikation-im-lernprozess -->
+<!-- slug: die-bedeutung-von-kommunikation-im-lernprozess -->
 <!-- filename: 01_Die_Bedeutung_von_Kommunikation_im_Lernprozess.md -->
 <!-- title: Die Bedeutung von Kommunikation im Lernprozess -->
 

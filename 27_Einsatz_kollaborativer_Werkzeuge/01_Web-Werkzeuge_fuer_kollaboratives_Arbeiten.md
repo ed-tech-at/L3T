@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/web-werkzeuge-fur-kollaboratives-arbeiten -->
+<!-- slug: web-werkzeuge-fur-kollaboratives-arbeiten -->
 <!-- filename: 01_Web-Werkzeuge_fuer_kollaboratives_Arbeiten.md -->
 <!-- title: Web-Werkzeuge für kollaboratives Arbeiten -->
 

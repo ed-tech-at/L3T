@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/medienpadagogik-immer-noch-aktuell -->
+<!-- slug: medienpadagogik-immer-noch-aktuell -->
 <!-- filename: 05_Medienpaedagogik_-_immer_noch_aktuell.md -->
 <!-- title: Medienpädagogik – immer noch aktuell? -->
 

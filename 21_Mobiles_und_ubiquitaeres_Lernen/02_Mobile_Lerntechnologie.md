@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/mobile-lerntechnologie -->
+<!-- slug: mobile-lerntechnologie -->
 <!-- filename: 02_Mobile_Lerntechnologie.md -->
 <!-- title: Mobile Lerntechnologie -->
 

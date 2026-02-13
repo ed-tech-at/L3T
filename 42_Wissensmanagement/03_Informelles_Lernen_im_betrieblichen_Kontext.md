@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/informelles-lernen-im-betrieblichen-kontext -->
+<!-- slug: informelles-lernen-im-betrieblichen-kontext -->
 <!-- filename: 03_Informelles_Lernen_im_betrieblichen_Kontext.md -->
 <!-- title: Informelles Lernen im betrieblichen Kontext -->
 

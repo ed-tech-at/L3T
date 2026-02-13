@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/spielend-lernen-im-kindergarten -->
+<!-- slug: spielend-lernen-im-kindergarten -->
 <!-- filename: 00_Spielend_Lernen_im_Kindergarten.md -->
 <!-- title: Spielend Lernen im Kindergarten -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/hochschullehre-im-wandel -->
+<!-- slug: hochschullehre-im-wandel -->
 <!-- filename: 03_Hochschullehre_im_Wandel.md -->
 <!-- title: Hochschullehre im Wandel -->
 

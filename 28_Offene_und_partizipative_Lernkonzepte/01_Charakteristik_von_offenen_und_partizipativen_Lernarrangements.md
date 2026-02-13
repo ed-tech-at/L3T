@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/charakteristik-von-offenen-und-partizipativen-lernarrangements -->
+<!-- slug: charakteristik-von-offenen-und-partizipativen-lernarrangements -->
 <!-- filename: 01_Charakteristik_von_offenen_und_partizipativen_Lernarrangements.md -->
 <!-- title: Charakteristik von offenen und partizipativen Lernarrangements -->
 

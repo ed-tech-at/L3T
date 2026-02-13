@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/interaktion-und-interaktivitat -->
+<!-- slug: interaktion-und-interaktivitat -->
 <!-- filename: 02_Interaktion_und_Interaktivitaet.md -->
 <!-- title: Interaktion und Interaktivität -->
 

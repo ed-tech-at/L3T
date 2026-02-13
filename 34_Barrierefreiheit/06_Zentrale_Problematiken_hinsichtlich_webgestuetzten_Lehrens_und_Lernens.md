@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zentrale-problematiken-hinsichtlich-webgestutzten-lehrens-und-lernens -->
+<!-- slug: zentrale-problematiken-hinsichtlich-webgestutzten-lehrens-und-lernens -->
 <!-- filename: 06_Zentrale_Problematiken_hinsichtlich_webgestuetzten_Lehrens_und_Lernens.md -->
 <!-- title: Zentrale Problematiken hinsichtlich webgestützten Lehrens und Lernens -->
 

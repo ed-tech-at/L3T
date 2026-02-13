@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/entwicklung-von-videokonferenzen -->
+<!-- slug: entwicklung-von-videokonferenzen -->
 <!-- filename: 01_Entwicklung_von_Videokonferenzen.md -->
 <!-- title: Entwicklung von Videokonferenzen -->
 

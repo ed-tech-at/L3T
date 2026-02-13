@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/webbasierte-trainingssysteme-wbt -->
+<!-- slug: webbasierte-trainingssysteme-wbt -->
 <!-- filename: 02_Webbasierte_Trainingssysteme_WBT.md -->
 <!-- title: Webbasierte Trainingssysteme (WBT) -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/literatur-J39 -->
+<!-- slug: literatur-J39 -->
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 

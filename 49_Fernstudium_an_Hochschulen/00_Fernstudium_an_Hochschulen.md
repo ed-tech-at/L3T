@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/fernstudium-an-hochschulen -->
+<!-- slug: fernstudium-an-hochschulen -->
 <!-- filename: 00_Fernstudium_an_Hochschulen.md -->
 <!-- title: Fernstudium an Hochschulen -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/didaktische-aspekte-lernen-im-kontext -->
+<!-- slug: didaktische-aspekte-lernen-im-kontext -->
 <!-- filename: 05_Didaktische_Aspekte_Lernen_im_Kontext.md -->
 <!-- title: Didaktische Aspekte: Lernen im Kontext -->
 

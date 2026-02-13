@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/educational-dataminig-edm -->
+<!-- slug: educational-dataminig-edm -->
 <!-- filename: 02_Educational_Dataminig_EDM.md -->
 <!-- title: Educational Dataminig (EDM) -->
 

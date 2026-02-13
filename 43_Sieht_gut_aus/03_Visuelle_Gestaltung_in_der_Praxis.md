@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/visuelle-gestaltung-in-der-praxis -->
+<!-- slug: visuelle-gestaltung-in-der-praxis -->
 <!-- filename: 03_Visuelle_Gestaltung_in_der_Praxis.md -->
 <!-- title: Visuelle Gestaltung in der Praxis -->
 

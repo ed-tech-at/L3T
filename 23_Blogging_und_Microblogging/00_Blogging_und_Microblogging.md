@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/blogging-und-microblogging -->
+<!-- slug: blogging-und-microblogging -->
 <!-- filename: 00_Blogging_und_Microblogging.md -->
 <!-- title: Blogging und Microblogging -->
 

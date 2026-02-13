@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/werkzeuge-zum-lernen-und-lehren -->
+<!-- slug: werkzeuge-zum-lernen-und-lehren -->
 <!-- filename: 02_Werkzeuge_zum_Lernen_und_Lehren.md -->
 <!-- title: Werkzeuge zum Lernen und Lehren -->
 

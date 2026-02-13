@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zukunftsforschung -->
+<!-- slug: zukunftsforschung -->
 <!-- filename: 04_Zukunftsforschung.md -->
 <!-- title: Zukunftsforschung -->
 

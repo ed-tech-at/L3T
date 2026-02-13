@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/die-akteur-netzwerk-theorie -->
+<!-- slug: die-akteur-netzwerk-theorie -->
 <!-- filename: 00_Die_Akteur-Netzwerk-Theorie.md -->
 <!-- title: Die Akteur-Netzwerk-Theorie -->
 

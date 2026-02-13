@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/wissensmanagement-informelles-lernen -->
+<!-- slug: wissensmanagement-informelles-lernen -->
 <!-- filename: 07_Wissensmanagement_-_Informelles_Lernen.md -->
 <!-- title: Wissensmanagement / Informelles Lernen -->
 

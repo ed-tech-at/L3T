@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/didaktische-gestaltungsmoglichkeiten-fur-den-einsatz-von-educasts -->
+<!-- slug: didaktische-gestaltungsmoglichkeiten-fur-den-einsatz-von-educasts -->
 <!-- filename: 04_Didaktische_Gestaltungsmoeglichkeiten_fuer_den_Einsatz_von_Educasts.md -->
 <!-- title: Didaktische Gestaltungsmöglichkeiten für den Einsatz von Educasts -->
 

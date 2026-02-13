@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/netzwerke-und-curriculare-integration -->
+<!-- slug: netzwerke-und-curriculare-integration -->
 <!-- filename: 04_Netzwerke_und_curriculare_Integration.md -->
 <!-- title: Netzwerke und curriculare Integration -->
 

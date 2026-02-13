@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/lerntheorien-vom-lernen-zum-lehren -->
+<!-- slug: lerntheorien-vom-lernen-zum-lehren -->
 <!-- filename: 01_Lerntheorien_-_vom_Lernen_zum_Lehren.md -->
 <!-- title: Lerntheorien – vom Lernen zum Lehren? -->
 

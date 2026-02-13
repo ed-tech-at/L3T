@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/strukturmerkmale-von-hypertext -->
+<!-- slug: strukturmerkmale-von-hypertext -->
 <!-- filename: 06_Strukturmerkmale_von_Hypertext.md -->
 <!-- title: Strukturmerkmale von Hypertext -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/micro-blogging-in-der-forschung -->
+<!-- slug: micro-blogging-in-der-forschung -->
 <!-- filename: 05_Micro--Blogging_in_der_Forschung.md -->
 <!-- title: Micro-/Blogging in der Forschung -->
 

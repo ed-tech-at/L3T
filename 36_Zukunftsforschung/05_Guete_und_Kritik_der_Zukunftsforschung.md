@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/gute-und-kritik-der-zukunftsforschung -->
+<!-- slug: gute-und-kritik-der-zukunftsforschung -->
 <!-- filename: 05_Guete_und_Kritik_der_Zukunftsforschung.md -->
 <!-- title: Güte und Kritik der Zukunftsforschung -->
 

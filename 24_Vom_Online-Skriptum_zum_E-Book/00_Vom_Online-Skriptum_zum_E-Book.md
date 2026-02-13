@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/vom-online-skriptum-zum-e-book -->
+<!-- slug: vom-online-skriptum-zum-e-book -->
 <!-- filename: 00_Vom_Online-Skriptum_zum_E-Book.md -->
 <!-- title: Vom Online-Skriptum zum E-Book -->
 

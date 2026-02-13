@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ausblick-ugi -->
+<!-- slug: ausblick-ugi -->
 <!-- filename: 07_Ausblick.md -->
 <!-- title: Ausblick -->
 

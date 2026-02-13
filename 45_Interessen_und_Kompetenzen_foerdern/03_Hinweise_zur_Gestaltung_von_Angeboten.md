@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/hinweise-zur-gestaltung-von-angeboten -->
+<!-- slug: hinweise-zur-gestaltung-von-angeboten -->
 <!-- filename: 03_Hinweise_zur_Gestaltung_von_Angeboten.md -->
 <!-- title: Hinweise zur Gestaltung von Angeboten -->
 

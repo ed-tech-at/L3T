@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/konsequenzen-fur-unsere-sicht-auf-wissen-lernen-und-technologien -->
+<!-- slug: konsequenzen-fur-unsere-sicht-auf-wissen-lernen-und-technologien -->
 <!-- filename: 07_Konsequenzen_fuer_unsere_Sicht_auf_Wissen_Lernen_und_Technologien.md -->
 <!-- title: Konsequenzen für unsere Sicht auf Wissen, Lernen und Technologien -->
 

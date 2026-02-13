@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/anwendung-von-videokonferenzen -->
+<!-- slug: anwendung-von-videokonferenzen -->
 <!-- filename: 05_Anwendung_von_Videokonferenzen.md -->
 <!-- title: Anwendung von Videokonferenzen -->
 

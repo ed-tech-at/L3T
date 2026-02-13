@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/ausblick-1WL -->
+<!-- slug: ausblick-1WL -->
 <!-- filename: 08_Ausblick.md -->
 <!-- title: Ausblick -->
 

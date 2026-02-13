@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/datenschutz -->
+<!-- slug: datenschutz -->
 <!-- filename: 04_Datenschutz.md -->
 <!-- title: Datenschutz -->
 

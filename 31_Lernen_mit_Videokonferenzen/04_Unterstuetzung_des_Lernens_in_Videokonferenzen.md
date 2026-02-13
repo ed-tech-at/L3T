@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/unterstutzung-des-lernens-in-videokonferenzen -->
+<!-- slug: unterstutzung-des-lernens-in-videokonferenzen -->
 <!-- filename: 04_Unterstuetzung_des_Lernens_in_Videokonferenzen.md -->
 <!-- title: Unterstützung des Lernens in Videokonferenzen -->
 

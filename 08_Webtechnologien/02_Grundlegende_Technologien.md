@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/grundlegende-technologien -->
+<!-- slug: grundlegende-technologien -->
 <!-- filename: 02_Grundlegende_Technologien.md -->
 <!-- title: Grundlegende Technologien -->
 

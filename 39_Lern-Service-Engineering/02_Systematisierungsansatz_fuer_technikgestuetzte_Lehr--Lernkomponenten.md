@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/systematisierungsansatz-fur-technikgestutzte-lehr-lernkomponenten -->
+<!-- slug: systematisierungsansatz-fur-technikgestutzte-lehr-lernkomponenten -->
 <!-- filename: 02_Systematisierungsansatz_fuer_technikgestuetzte_Lehr--Lernkomponenten.md -->
 <!-- title: Systematisierungsansatz für technikgestützte Lehr-/Lernkomponenten -->
 

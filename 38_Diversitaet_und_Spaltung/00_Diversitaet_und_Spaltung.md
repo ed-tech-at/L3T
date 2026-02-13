@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/diversitat-und-spaltung -->
+<!-- slug: diversitat-und-spaltung -->
 <!-- filename: 00_Diversitaet_und_Spaltung.md -->
 <!-- title: Diversität und Spaltung -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/e-learning-in-organisationen -->
+<!-- slug: e-learning-in-organisationen -->
 <!-- filename: 00_E-Learning_in_Organisationen.md -->
 <!-- title: E-Learning in Organisationen -->
 

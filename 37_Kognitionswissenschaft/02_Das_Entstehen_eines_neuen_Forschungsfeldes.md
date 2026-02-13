@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/das-entstehen-eines-neuen-forschungsfeldes -->
+<!-- slug: das-entstehen-eines-neuen-forschungsfeldes -->
 <!-- filename: 02_Das_Entstehen_eines_neuen_Forschungsfeldes.md -->
 <!-- title: Das Entstehen eines neuen Forschungsfeldes -->
 

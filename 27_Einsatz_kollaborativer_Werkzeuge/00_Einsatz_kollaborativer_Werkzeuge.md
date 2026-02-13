@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/einsatz-kollaborativer-werkzeuge -->
+<!-- slug: einsatz-kollaborativer-werkzeuge -->
 <!-- filename: 00_Einsatz_kollaborativer_Werkzeuge.md -->
 <!-- title: Einsatz kollaborativer Werkzeuge -->
 

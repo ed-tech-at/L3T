@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/erwachsenen-und-weiterbildung -->
+<!-- slug: erwachsenen-und-weiterbildung -->
 <!-- filename: 00_Erwachsenen-_und_Weiterbildung.md -->
 <!-- title: Erwachsenen- und Weiterbildung -->
 

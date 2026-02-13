@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/standards-zur-beschreibung-von-lehr-und-lernprozessen -->
+<!-- slug: standards-zur-beschreibung-von-lehr-und-lernprozessen -->
 <!-- filename: 04_Standards_zur_Beschreibung_von_Lehr-_und_Lernprozessen.md -->
 <!-- title: Standards zur Beschreibung von Lehr- und Lernprozessen -->
 

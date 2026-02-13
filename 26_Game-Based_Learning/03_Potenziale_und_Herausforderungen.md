@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/potenziale-und-herausforderungen -->
+<!-- slug: potenziale-und-herausforderungen -->
 <!-- filename: 03_Potenziale_und_Herausforderungen.md -->
 <!-- title: Potenziale und Herausforderungen -->
 

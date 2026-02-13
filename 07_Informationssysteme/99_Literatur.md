@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/literatur-5Rm -->
+<!-- slug: literatur-5Rm -->
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 

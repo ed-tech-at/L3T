@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/moocs-massive-open-online-courses -->
+<!-- slug: moocs-massive-open-online-courses -->
 <!-- filename: 03_MOOCs_Massive_Open_Online_Courses.md -->
 <!-- title: MOOCs (‚Massive Open Online Courses’) -->
 

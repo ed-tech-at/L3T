@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/tablet -->
+<!-- slug: tablet -->
 <!-- filename: 15_Tablet.md -->
 <!-- title: Tablet -->
 

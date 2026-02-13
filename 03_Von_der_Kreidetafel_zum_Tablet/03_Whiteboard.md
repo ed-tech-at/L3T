@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/whiteboard -->
+<!-- slug: whiteboard -->
 <!-- filename: 03_Whiteboard.md -->
 <!-- title: Whiteboard -->
 

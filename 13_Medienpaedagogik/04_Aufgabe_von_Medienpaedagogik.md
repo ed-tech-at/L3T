@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/aufgabe-von-medienpadagogik -->
+<!-- slug: aufgabe-von-medienpadagogik -->
 <!-- filename: 04_Aufgabe_von_Medienpaedagogik.md -->
 <!-- title: Aufgabe von Medienpädagogik -->
 

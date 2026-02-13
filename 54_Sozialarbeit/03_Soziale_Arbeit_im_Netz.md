@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/soziale-arbeit-im-netz -->
+<!-- slug: soziale-arbeit-im-netz -->
 <!-- filename: 03_Soziale_Arbeit_im_Netz.md -->
 <!-- title: Soziale Arbeit im Netz -->
 

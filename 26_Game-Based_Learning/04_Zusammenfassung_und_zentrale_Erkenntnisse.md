@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/zusammenfassung-und-zentrale-erkenntnisse -->
+<!-- slug: zusammenfassung-und-zentrale-erkenntnisse -->
 <!-- filename: 04_Zusammenfassung_und_zentrale_Erkenntnisse.md -->
 <!-- title: Zusammenfassung und zentrale Erkenntnisse -->
 

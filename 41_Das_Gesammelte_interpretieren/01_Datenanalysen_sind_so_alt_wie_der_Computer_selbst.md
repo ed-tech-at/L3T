@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/datenanalysen-sind-so-alt-wie-der-computer-selbst -->
+<!-- slug: datenanalysen-sind-so-alt-wie-der-computer-selbst -->
 <!-- filename: 01_Datenanalysen_sind_so_alt_wie_der_Computer_selbst.md -->
 <!-- title: Datenanalysen sind so alt wie der Computer selbst -->
 

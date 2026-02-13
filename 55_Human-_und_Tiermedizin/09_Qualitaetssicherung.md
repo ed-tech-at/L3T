@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/qualitatssicherung -->
+<!-- slug: qualitatssicherung -->
 <!-- filename: 09_Qualitaetssicherung.md -->
 <!-- title: Qualitätssicherung -->
 

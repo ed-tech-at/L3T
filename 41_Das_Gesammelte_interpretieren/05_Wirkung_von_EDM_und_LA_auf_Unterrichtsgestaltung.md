@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/wirkung-von-edm-und-la-auf-unterrichtsgestaltung -->
+<!-- slug: wirkung-von-edm-und-la-auf-unterrichtsgestaltung -->
 <!-- filename: 05_Wirkung_von_EDM_und_LA_auf_Unterrichtsgestaltung.md -->
 <!-- title: Wirkung von EDM und LA auf Unterrichtsgestaltung -->
 

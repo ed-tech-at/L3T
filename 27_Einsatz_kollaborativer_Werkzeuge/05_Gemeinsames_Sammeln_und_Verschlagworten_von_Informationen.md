@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/gemeinsames-sammeln-und-verschlagworten-von-informationen -->
+<!-- slug: gemeinsames-sammeln-und-verschlagworten-von-informationen -->
 <!-- filename: 05_Gemeinsames_Sammeln_und_Verschlagworten_von_Informationen.md -->
 <!-- title: Gemeinsames Sammeln und Verschlagworten von Informationen -->
 

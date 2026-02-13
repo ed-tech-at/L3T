@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/multimedia-und-gedachtnis -->
+<!-- slug: multimedia-und-gedachtnis -->
 <!-- filename: 00_Multimedia_und_Gedaechtnis.md -->
 <!-- title: Multimedia und Gedächtnis -->
 

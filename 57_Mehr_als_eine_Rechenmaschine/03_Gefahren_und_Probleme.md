@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/gefahren-und-probleme -->
+<!-- slug: gefahren-und-probleme -->
 <!-- filename: 03_Gefahren_und_Probleme.md -->
 <!-- title: Gefahren und Probleme -->
 

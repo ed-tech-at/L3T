@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/grundbegriffe-im-themenfeld -->
+<!-- slug: grundbegriffe-im-themenfeld -->
 <!-- filename: 02_Grundbegriffe_im_Themenfeld.md -->
 <!-- title: Grundbegriffe im Themenfeld -->
 

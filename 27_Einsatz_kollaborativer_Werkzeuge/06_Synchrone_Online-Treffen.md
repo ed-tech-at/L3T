@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/synchrone-online-treffen -->
+<!-- slug: synchrone-online-treffen -->
 <!-- filename: 06_Synchrone_Online-Treffen.md -->
 <!-- title: Synchrone Online-Treffen -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/planung-und-organisation -->
+<!-- slug: planung-und-organisation -->
 <!-- filename: 00_Planung_und_Organisation.md -->
 <!-- title: Planung und Organisation -->
 

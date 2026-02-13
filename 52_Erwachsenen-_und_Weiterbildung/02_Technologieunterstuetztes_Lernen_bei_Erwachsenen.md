@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/technologieunterstutztes-lernen-bei-erwachsenen -->
+<!-- slug: technologieunterstutztes-lernen-bei-erwachsenen -->
 <!-- filename: 02_Technologieunterstuetztes_Lernen_bei_Erwachsenen.md -->
 <!-- title: Technologieunterstütztes Lernen bei Erwachsenen -->
 

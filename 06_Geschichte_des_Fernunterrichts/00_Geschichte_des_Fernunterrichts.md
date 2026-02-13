@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/geschichte-des-fernunterrichts -->
+<!-- slug: geschichte-des-fernunterrichts -->
 <!-- filename: 00_Geschichte_des_Fernunterrichts.md -->
 <!-- title: Geschichte des Fernunterrichts -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/fernseher-monitor-videorekorder-dvd-player -->
+<!-- slug: fernseher-monitor-videorekorder-dvd-player -->
 <!-- filename: 08_Fernseher_Monitor_Videorekorder_DVD-Player.md -->
 <!-- title: Fernseher, Monitor, Videorekorder, DVD-Player -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/theorien-zur-einfuhrung-von-technologien -->
+<!-- slug: theorien-zur-einfuhrung-von-technologien -->
 <!-- filename: 03_Theorien_zur_Einfuehrung_von_Technologien.md -->
 <!-- title: Theorien zur Einführung von Technologien -->
 

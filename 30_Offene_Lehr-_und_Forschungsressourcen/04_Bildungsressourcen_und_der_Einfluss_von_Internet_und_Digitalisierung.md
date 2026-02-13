@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/bildungsressourcen-und-der-einfluss-von-internet-und-digitalisierung -->
+<!-- slug: bildungsressourcen-und-der-einfluss-von-internet-und-digitalisierung -->
 <!-- filename: 04_Bildungsressourcen_und_der_Einfluss_von_Internet_und_Digitalisierung.md -->
 <!-- title: Bildungsressourcen und der Einfluss von Internet und Digitalisierung -->
 

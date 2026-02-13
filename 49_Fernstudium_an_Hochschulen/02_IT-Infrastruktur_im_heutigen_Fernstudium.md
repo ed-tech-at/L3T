@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/it-infrastruktur-im-heutigen-fernstudium -->
+<!-- slug: it-infrastruktur-im-heutigen-fernstudium -->
 <!-- filename: 02_IT-Infrastruktur_im_heutigen_Fernstudium.md -->
 <!-- title: IT-Infrastruktur im heutigen Fernstudium -->
 

@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/strategische-einfuhrung-e-learning-als-bildungsinnovation-nachhaltig-integrieren -->
+<!-- slug: strategische-einfuhrung-e-learning-als-bildungsinnovation-nachhaltig-integrieren -->
 <!-- filename: 02_Strategische_Einfuehrung_E-Learning_als_Bildungsinnovation_nachhaltig_integrieren.md -->
 <!-- title: Strategische Einführung: E-Learning als Bildungsinnovation nachhaltig integrieren -->
 

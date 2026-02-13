@@ -1,3 +1,5 @@
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/medienpadagogik-in-der-sozialen-arbeit -->
+<!-- slug: medienpadagogik-in-der-sozialen-arbeit -->
 <!-- filename: 02_Medienpaedagogik_in_der_Sozialen_Arbeit.md -->
 <!-- title: Medienpädagogik in der Sozialen Arbeit -->
 

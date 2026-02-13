@@ -1,0 +1,75 @@
+### CODEOWNERS file for L3T GitHub repository
+
+## Default rule: Read/Wite access to the entire repository
+* @16grabnb @bbruenner
+
+## Template: Preparation for usage of group-based access control using organization teams
+# * @ed-tech-at/admins
+# * @ed-tech-at/editors
+
+## Sensitive files & folders require admin review
+/00_L3T/ @16grabnb @bbruenner
+README.md @16grabnb @bbruenner
+
+
+## Access rules for the individual chapters
+## Uncomment and adjust as needed for individual chapter access control
+# /01_* @16grabnb @bbruenner
+# /02_* @16grabnb @bbruenner
+# /03_* @16grabnb @bbruenner
+# /04_* @16grabnb @bbruenner
+# /05_* @16grabnb @bbruenner
+# /06_* @16grabnb @bbruenner
+# /07_* @16grabnb @bbruenner
+# /08_* @16grabnb @bbruenner
+# /09_* @16grabnb @bbruenner
+# /10_* @16grabnb @bbruenner
+# /11_* @16grabnb @bbruenner
+# /12_* @16grabnb @bbruenner
+# /13_* @16grabnb @bbruenner
+# /14_* @16grabnb @bbruenner
+# /15_* @16grabnb @bbruenner
+# /16_* @16grabnb @bbruenner
+# /17_* @16grabnb @bbruenner
+# /18_* @16grabnb @bbruenner
+# /19_* @16grabnb @bbruenner
+# /20_* @16grabnb @bbruenner
+# /21_* @16grabnb @bbruenner
+# /22_* @16grabnb @bbruenner
+# /23_* @16grabnb @bbruenner
+# /24_* @16grabnb @bbruenner
+# /25_* @16grabnb @bbruenner
+# /26_* @16grabnb @bbruenner
+# /27_* @16grabnb @bbruenner
+# /28_* @16grabnb @bbruenner
+# /29_* @16grabnb @bbruenner
+# /30_* @16grabnb @bbruenner
+# /31_* @16grabnb @bbruenner
+# /32_* @16grabnb @bbruenner
+# /33_* @16grabnb @bbruenner
+# /34_* @16grabnb @bbruenner
+# /35_* @16grabnb @bbruenner
+# /36_* @16grabnb @bbruenner
+# /37_* @16grabnb @bbruenner
+# /38_* @16grabnb @bbruenner
+# /39_* @16grabnb @bbruenner
+# /40_* @16grabnb @bbruenner
+# /41_* @16grabnb @bbruenner
+# /42_* @16grabnb @bbruenner
+# /43_* @16grabnb @bbruenner
+# /44_* @16grabnb @bbruenner
+# /45_* @16grabnb @bbruenner
+# /46_* @16grabnb @bbruenner
+# /47_* @16grabnb @bbruenner
+# /48_* @16grabnb @bbruenner
+# /49_* @16grabnb @bbruenner
+# /50_* @16grabnb @bbruenner
+# /51_* @16grabnb @bbruenner
+# /52_* @16grabnb @bbruenner
+# /53_* @16grabnb @bbruenner
+# /54_* @16grabnb @bbruenner
+# /55_* @16grabnb @bbruenner
+# /56_* @16grabnb @bbruenner
+# /57_* @16grabnb @bbruenner
+# /58_* @16grabnb @bbruenner
+# /59_* @16grabnb @bbruenner

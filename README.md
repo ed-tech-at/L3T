@@ -43,6 +43,26 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
     - Falls in Ordnung: PR wird akzeptiert und ins [L3T-BookStack](https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien) übertragen. 
     - Falls weitere Anpassungen nötig: Wird mit Kommentar zurückgewiesen.
 
+### 🔹 Automatische Überprüfung
+
+Bei jedem Pull-Request werden **automatische Checks** durchgeführt, die häufige Fehler erkennen:
+
+**✅ Was wird geprüft:**
+- **Metadaten:** filename, title, authors, tags, revisors, slugs, url (Format und Vollständigkeit)
+- **Bilder:** GitHub-URLs, alt-Tags & figcaptions (müssen identisch sein!), Zentrierung
+- **Blockquotes:** Korrekte Farben und Stil (blau/rot/grün für verschiedene Typen)
+- **Figurennummerierung:** Fortlaufende Nummerierung (Abb. 1, 2, 3...) pro Kapitel
+- **APA-Zitierungen:** Fehlende Jahre, fehlerhafte URLs, nicht verwendete Referenzen
+- **Dateistruktur:** Nur erlaubte Dateitypen (.md, Bilder), korrekte Ordnerstruktur
+- **Markdown-Links:** Fehlende oder fehlerhafte Links
+- **Tabellen:** Konsistente Spaltenanzahl
+
+**⚠️ Fehler vs. Warnungen:**
+- **Fehler (rot):** Müssen behoben werden, bevor der PR akzeptiert werden kann
+- **Warnungen (gelb):** Hinweise auf mögliche Probleme, blockieren den PR nicht
+
+Die Check-Ergebnisse erscheinen direkt im PR unter "Checks" mit detaillierter Auflistung aller gefundenen Probleme.
+
 ### 🔹 Formatierung & Inhalt
 
 - **Markdown** wird für die meisten Inhalte genutzt. Einige Elemente (Bilder, Blockquotes) müssen jedoch als HTML eingebunden werden.
@@ -61,15 +81,21 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
             ```
     -  Kapitel-Files (``00_*.md``) enthalten zusätzliche Infos:
     
+        - `slug`: Eindeutige URL-Kennung für die Seite (wird automatisch vom Sync-Script generiert und sollte nicht manuell geändert werden, bzw. bei Sync automatisch überschrieben).
+        - `URL`: Vollständige URL zur Seite in Bookstack (wird automatisch vom Sync-Script generiert und sollte nicht manuell geändert werden, bzw. bei Sync automatisch überschrieben).
         - `tags`: Tags für das Kapitel, scheinen in Bookstack in der Seitenleiste auf. Dürfen ohne Einschränkungen angepasst werden.
-        - `authors`: Autoren des jeweiligen Kapitels (Aktuell noch nicht im Frontend nicht implementiert). 
+        - `authors`: Autoren des jeweiligen Kapitels. Kommagetrennte Liste.
+        - `revisors` (optional): Überarbeiter des Kapitels. Kommagetrennte Liste. *Füge deinen eigenen Namen hinzu, wenn du Änderungen am Kapitel vorgenommen hast!*
         - Beispiel: 
             ```
+            <!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/chapter/einleitung -->
+            <!-- slug: einleitung -->
             <!-- filename: 00_Einleitung.md -->
             <!-- title: Einleitung -->
             
             <!-- tags: #einleitung,#einfuehrung,#l3t -->
-            <!-- authors: Martin Ebner, Sandra Schön, Jennifer Frey --> 
+            <!-- authors: Martin Ebner, Sandra Schön, Jennifer Frey -->
+            <!-- revisors: Bernd Grabner --> 
             ```
         
 - **Bilder:** 
@@ -91,7 +117,7 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
 - **Blockquotes:** 
     - Um Wichtiges hervorzuheben, zusätzliche Informationen zu geben, Übungen anzubieten oder praxisnahe Beispiele zu zeigen. 
     - Werden im **HTML-Format** angegeben.
-    - Folgen demselben Format mit unterschiedlichen Farben 
+    - Folgen demselben Format mit unterschiedlichen Farben je nach Typ
          ```
         <blockquote style="background: <HEX-Farbcode>; border-left: 10px solid <HEX-Farbcode>"> [...] </blockquote>`
         ```

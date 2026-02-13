@@ -1,0 +1,62 @@
+name: Sync Bookstack with GIT repo
+
+on:
+  push:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    container:
+      image: python:3.13
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
+
+      - name: Install dependencies
+        run: |
+          apt-get update
+          apt-get install -y gh
+          pip3 install -r .github/bookstack_sync/requirements.txt
+
+      - name: Run actual sync
+        if: runner.debug != 1
+        run: |
+          python3 .github/bookstack_sync/sync.py
+        env:
+          BOOKSTACK_TOKEN_ID: ${{ secrets.BOOKSTACK_TOKEN_ID }}
+          BOOKSTACK_TOKEN_SECRET: ${{ secrets.BOOKSTACK_TOKEN_SECRET }}
+          BOOKSTACK_URL: ${{ vars.BOOKSTACK_URL }}
+          
+      - name: Run actual sync (debug)
+        if: runner.debug == 1
+        run: |
+          python3 .github/bookstack_sync/sync.py -l DEBUG
+        env:
+          BOOKSTACK_TOKEN_ID: ${{ secrets.BOOKSTACK_TOKEN_ID }}
+          BOOKSTACK_TOKEN_SECRET: ${{ secrets.BOOKSTACK_TOKEN_SECRET }}
+          BOOKSTACK_URL: ${{ vars.BOOKSTACK_URL }}
+
+      - name: Check for repo changes
+        id: changes
+        run: |
+          git config --global --add safe.directory "${GITHUB_WORKSPACE}"
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: ${{ steps.changes.outputs.changed == 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update metadata from Bookstack sync"
+          git push

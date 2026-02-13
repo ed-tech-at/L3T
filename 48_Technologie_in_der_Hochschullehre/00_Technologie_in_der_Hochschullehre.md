@@ -5,6 +5,7 @@
 
 <!-- tags: #hochschule,#spezial,#bildungssektor -->
 <!-- authors: Michael Kopp, Martin Ebner, Walther Nagler, Elke Lackner -->
+<!-- revisors: Melanie Muchitsch -->
 
 ## Rahmenbedingungen, Strukturen und Modelle
 

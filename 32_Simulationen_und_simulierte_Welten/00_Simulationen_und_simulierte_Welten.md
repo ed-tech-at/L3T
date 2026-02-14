@@ -5,6 +5,7 @@
 
 <!-- tags: #virtuellewelt,#vertiefung,#werkzeugmethode -->
 <!-- authors: Susan Höntzsch (Jolie), Uwe Katzky, Klaus Bredl, Frank Kappe, Dirk Krause -->
+<!-- revisors: Stefan Etzelstorfer -->
 
 ## Lernen in immersiven Lernumgebungen
 

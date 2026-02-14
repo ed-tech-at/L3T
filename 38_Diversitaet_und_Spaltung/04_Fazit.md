@@ -10,7 +10,7 @@ Digitale Medien bringen zum einen neue Chancen mit sich, zum Beispiel Zugang zu 
 ### ?
 
 1. Schreiben Sie Ihre Reflexion zum Thema Diversität und Spaltung und entwickeln Ihre Forschungsfragen, zum Beispiel in Bezug auf Ihre eigene Bildungspraxis.
-2. Erstellen Sie eine MindMap zum Thema Diversität und Spaltung und versuchen Sie, die verschiedenen Aspekte strukturiert darzustellen. Verwenden sie dazu zum Beispiel die Anwendung MindMeister. URL: http://www.mindmeister.com/de Teilen Sie den Link zu Ihrer MindMap via Twitter und verwenden Sie dabei den Hashtag #L3T.
+2. Erstellen Sie eine MindMap zum Thema Diversität und Spaltung und versuchen Sie, die verschiedenen Aspekte strukturiert darzustellen. Verwenden sie dazu zum Beispiel die Anwendung MindMeister. URL: [http://www.mindmeister.com/de](http://www.mindmeister.com/de)
 3. Entwickeln Sie eine Idee für ein Medienprojekt, in dem digitale Medien eingesetzt werden, um Diversität und Inklusion zu fördern. Welche Differenzmerkmale würden dabei im Fokus stehen (zum Beispiel Geschlecht, Alter, Herkunft)? Wie könnten Sie mit Ihrem Medienprojekt zu mehr Chancengerechtigkeit beitragen?
 
 </blockquote>

@@ -9,8 +9,8 @@ Der Technologieeinsatz im Fernstudium wird von Telekommunikationsformen der jewe
 
 ### !
 
-Ziel der Offenen Universitäten beziehungsweise der Fernuniversitäten ist es seit den 1960er Jahren, einen offenen Zugang zur Hochschulbildung für alle Interessierten, vor allem für Berufstätige zu schaffen. Dazu nutzen sie Methoden der Fernlehre und setzen von Anfang an Medien zur Vermittlung wissenschaftlicher Inhalte ein (FeU, 2013a; Peters, 2010; OUUK, 2013).
+Ziel der Offenen Universitäten beziehungsweise der Fernuniversitäten ist es seit den 1960er Jahren, einen offenen Zugang zur Hochschulbildung für alle Interessierten, vor allem für Berufstätige zu schaffen. Dazu nutzen sie Methoden der Fernlehre und setzen von Anfang an Medien zur Vermittlung wissenschaftlicher Inhalte ein (FeU, 2025a; OUUK, 2025; Peters, 2010).
 
 </blockquote>
 
-Zu nennen sind hier heute im Besonderen die Web-2.0-Technologien wie Podcasts, Wikis, Blogs, soziale Netzwerke sowie die zahlreichen Lernplattformen wie Moodle, Ilias und StudIP. Eine weitere für das Fernstudium positive Entwicklung ergibt sich durch die zunehmende Verbreitung von mobilen Endgeräten wie Notebooks, Tablet-Computer und Smartphones.
+Zu nennen sind hier heute im Besonderen Webtechnologien wie Podcasts, Wikis, Blogs, soziale Netzwerke sowie die zahlreichen Lernplattformen wie Moodle, Ilias und StudIP. Eine weitere für das Fernstudium positive Entwicklung ergibt sich durch die flächendeckende Verbreitung von mobilen Endgeräten wie Notebooks, Tablet-Computer und Smartphones.

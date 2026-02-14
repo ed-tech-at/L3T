@@ -5,6 +5,7 @@
 
 <!-- tags: #educast,#vertiefung,#werkzeugmethode -->
 <!-- authors: Isabel Zorn, Heike Seehagen-Marx, Andreas Auwärter, Marc Krüger -->
+<!-- revisors: Gabriel Hölzl -->
 
 ## Wie Podcasts in Bildungskontexten Anwendung finden
 

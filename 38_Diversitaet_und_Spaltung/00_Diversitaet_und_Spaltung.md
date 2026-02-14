@@ -5,6 +5,7 @@
 
 <!-- tags: #diversitaet,#vertiefung,#theorieforschung -->
 <!-- authors: Ilona Buchem -->
+<!-- revisors: Cora Kumnig -->
 
 ## Digitale Medien in der Gesellschaft
 

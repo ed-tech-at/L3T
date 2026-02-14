@@ -5,6 +5,7 @@
 
 <!-- tags: #sprache,#spezial,#fachgegenstand -->
 <!-- authors: Johanna Chardaloupa, Georgios Perperidis, Gerlinde Buchberger, Verena Heckmann, Elke Lackner, Jennifer Frey -->
+<!-- revisors: Tanja Grinschgl -->
 
 ## Mit Technologien Sprachen lernen und lehren
 

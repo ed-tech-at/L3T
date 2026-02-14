@@ -23,6 +23,9 @@ Während in den zuvor beschriebenen Kontexten Educasts eingesetzt werden, um sic
 
 Aus einer medienpädagogischen Perspektive heraus wird Podcasting als Phänomen der medialen Alltagswelt wahrgenommen (siehe Kapitel #medienpaedagogik). Im Bildungskontext könnten in Medienpädagogik-Workshops die Fähigkeit vermittelt werden, Educasts zu gestalten und sie im Internet für die Öffentlichkeit bereitzustellen. Die Educast-Herstellung würde dann als Mittel vorgestellt werden, um Menschen das Prinzip zu erläutern, kreativ und öffentlichkeitswirksam ihre Sichtweisen auf ein Thema darzustellen und somit ihre gesellschaftlichen Partizipationsmöglichkeiten zu erweitern.
 
+## Corona und der Einfluss auf Educasts
+Die Corona-Pandemie hat den Bildungsbereich nachhaltig verändert und die Digitalisierung des Lernens erheblich beschleunigt. Insbesondere während der Lockdown-Phasen rückten digitale Lernressourcen wie Educasts stärker in den Mittelpunkt. Lehrende wie Lernende mussten sich auf neue Formate einstellen, bei denen Flexibilität, Selbststeuerung und ortsunabhängiges Lernen essenziell wurden. Educasts ermöglichten es, Lerninhalte trotz physischer Distanz zu vermitteln und dabei individuelle Lernrhythmen zu berücksichtigen. Auch nach der Pandemie bleiben Educasts ein wichtiger Bestandteil hybrider und digitaler Lehr- und Lernkonzepte und tragen dazu bei, Bildung inklusiver, zugänglicher und anpassungsfähiger zu gestalten.
+
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
 ### !
@@ -35,6 +38,5 @@ Educasts sind auch Bildungsgegenstand bei der Förderung von Medienkompetenz.
 
 ### ?
 
-Diskutieren Sie in Kleingruppen, wie an Ihrer pädagogischen Einrichtung Educasts eingesetzt werden könnten.
-
+Erstellen Sie in Kleingruppen einen etwa fünfminütigen Podcast zu einem frei gewählten Bildungsthema. Entwickeln Sie eine klare Struktur (z. B. Einleitung, Hauptteil, Fazit).
 </blockquote>

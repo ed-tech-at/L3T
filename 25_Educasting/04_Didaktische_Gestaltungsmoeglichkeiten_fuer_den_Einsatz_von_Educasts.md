@@ -29,17 +29,9 @@ Bei der Einbindung und Erstellung von Educasts sollten Erkenntnisse aus empirisc
 
 ## Didaktische Szenarien
 
-Im Folgenden werden didaktische Gestaltungen von Educasts in verschiedenen Szenarien aus Hochschule, Schule, Freizeit und Beruf vorgestellt. Beispielsweise werden in der Hochschullehre Vorlesungen immer öfter auf Video aufgezeichnet und anschließend als Educast bereitgestellt. Studierende haben so die Möglichkeit, nicht verstandene Vorlesungspassagen nochmal anzuhören (zum Beispiel zur Prüfungsvorbereitung) oder verpasste Vorlesungen (zum Beispiel aufgrund von Krankheit) nachzuholen. Dieses Ergänzungsangebot wird von Studierenden sehr begrüßt und intensiv wahrgenommen, da es einen hohen Nutzen für das Lernen bietet (Tillmann, Bremer & Krömker, 2012; Rust & Krüger, 2011).
+Im Folgenden werden didaktische Anwendungen von Educasts in Bereichen wie Hochschule, Schule, Freizeit und Beruf dargestellt. Insbesondere seit der Corona-Pandemie setzen Universitäten vermehrt auf Live-Streaming und Aufzeichnungen von Vorlesungen. Studierende können dadurch in Echtzeit an den Veranstaltungen teilnehmen oder sich Aufzeichnungen im Nachhinein ansehen, um schwer verständliche Inhalte zu wiederholen oder verpasste Vorlesungen nachzuholen – beispielsweise im Rahmen der Prüfungsvorbereitung.
 
 Zentrale **Podcast-Portale**, beispielsweise an Universitäten, sind ideale Orte im Internet, um außerhalb von Lernveranstaltungen und Arbeitsgruppen das Selbstlernen zu unterstützen und zu fördern. Dabei sind Podcast-Portale nicht nur zentrale Anlaufstellen für fachübergreifende Lernmaterialien, sie unterstützen zugleich zum Beispiel einen hochschulübergreifenden Informationsaustausch in Forschung und Lehre.
-
-<blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
-
-### !
-
-Ein Beispiel für den innovativen Medieneinsatz in Forschung und Lehre ist das zentrale Podcast Portal der Bergischen Universität Wuppertal ([http://podcast.uni-wuppertal.de/](http://podcast.uni-wuppertal.de/)). Das als “Work in Progress” zu verstehende Portal wird stets weiterentwickelt. Ein weiteres Beispiel findet sich bei der Universität Graz ([http://gams.uni-graz.at/pug](http://gams.uni-graz.at/pug)).
-
-</blockquote>
 
 Gebündelt nach Fachbereichen, zentralen Einrichtungen und Themen werden durch zentrale Podcast-Portale zunehmend Beiträge aus Forschung und Lehre abrufbar und durch RSS-Feeds abonnierbar sein. Folgende Aspekte unterstreichen das innovative Potenzial:
 

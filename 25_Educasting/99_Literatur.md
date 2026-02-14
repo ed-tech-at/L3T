@@ -13,6 +13,8 @@
 
 - Faulstich, P. & Zeuner, C. (1999). Erwachsenenbildung: eine handlungsorientierte Einführung. Weinheim: Juventa-Verlag.
 
+- Freier, C., Bocklet, T., Helten, A. K., & weitere. (2023). Wie kann videogestütztes Lernen die Erwartungen Studierender und Dozierender erfüllen? Soziale Passagen, 15, 631–635. https://doi.org/10.1007/s12592-023-00478-0
+
 - Geser, G. (2007). Open Educational Practices and Resources, OLCOS Roadmap 2012. URL: [http://www.olcos.org/english/roadmap/](http://www.olcos.org/english/roadmap/) \[15-07-2010].
 
 - Harel, I. & Papert, S. (1991). Constructionism: research reports and essays, 1985-1990. In: Epistemology & Learning Research Group (Hrsg.), Massachusetts Institute of Technology. Epistemology & Learning Research Group & Media Laboratory, Norwood/New Jersey: Ablex Publishing Corporation.

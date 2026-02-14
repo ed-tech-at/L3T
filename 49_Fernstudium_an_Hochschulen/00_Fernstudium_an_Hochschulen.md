@@ -5,6 +5,7 @@
 
 <!-- tags: #fernunterricht,#spezial,#bildungssektor -->
 <!-- authors: Brigitte Kreplin, Heike Seehagen-Marx, Nicole Engelhardt -->
+<!-- revisors: Michael Streibl -->
 
 ## Aus Perspektive von Lernenden und Lehrenden
 

@@ -3,9 +3,9 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
-- Ambient Insight (2012). The 2011-2016 Worldwide Game-Based Learning Market: All Roads Lead to Mobile. Key Findings from Recent Ambient Insight Research. 2012. URL: [http://www.ambientinsight.com/Resources/Documents/AmbientInsight-Worldwide-GameBased-Learning-Market.pdf](http://www.ambientinsight.com/Resources/Documents/AmbientInsight-Worldwide-GameBased-Learning-Market.pdf) \[2013-07-01]
+- Bailenson, J. N.; Beams, B.; Brown, J.; DeVeaux, C.; Han, E.; Queiroz, A. C. M.; Ratan, R.; Santoso, M.; Srirangarajan, T.; Tao, Y. & Wang, P. (2024). Seeing the World Through Digital Prisms: Psychological Implications of Passthrough Video Usage in Mixed Reality. Technology, Mind, and Behavior. URL: [https://doi.org/10.1037/tmb0000129](https://doi.org/10.1037/tmb0000129) \[2025-04-06]
 
-- Bouras, C.; Triantafillou, V. & Tsiatsos, T. (2001). Aspects of a collaborative learning environment using distributed virtual environments. Paper presented at ED-MEDIA 2001 Conference, Tampere, Finnland. URL: [http://ru6.cti.gr/ru6/publications/2021615.pdf](http://ru6.cti.gr/ru6/publications/2021615.pdf) \[2013-06-23]
+- Bouras, C.; Triantafillou, V. & Tsiatsos, T. (2001). Aspects of a collaborative learning environment using distributed virtual environments. Paper presented at ED-MEDIA 2001 Conference, Tampere, Finnland. URL: [https://www.learntechlib.org/primary/p/8362/](https://www.learntechlib.org/primary/p/8362/) \[2025-04-06]
 
 - Bredl, K. & Groß, A. (2012). Gestaltung und Bewertung von Lernszenarien in immersiven virtuellen Welten. Zeitschrift für E-Learning, vol. 7, issue 1/2012, Innsbruck: Studienverlag, 36-46.
 
@@ -14,6 +14,8 @@
 - Bredl, K., Bräutigam, B., & Herz, D. (2012). Avatarbasierte Beratung Und Coaching In 3D. In: H. Geißler & M. Metz (Hrsg.) E?Coaching und Online-Beratung, Wiesbaden: Springer VS, 121-136.
 
 - Burdea, G. C. & Coiffet, P. (2003). Virtual Reality Technology. Hoboken (NJ): Wiley.
+
+- Chandrasekera, T.; Yoon, S. (2018). Augmented Reality, Virtual Reality and their effect on learning style in the creative design process. ERIC. URL: [https://eric.ed.gov/?id=EJ1171588](https://eric.ed.gov/?id=EJ1171588) \[2025-04-05]
 
 - Csikszentmihalyi, M. (2010). Das Flow-Erlebnis. Stuttgart: Klett-Cotta.
 
@@ -31,12 +33,24 @@
 
 - Hofmann, J. (2002). Raumwahrnehmung in virtuellen Umgebungen: Der Einfluss des Präsenzempfindens in Virtual Reality-Anwendungen für den industriellen Einsatz. Wiesbaden: Deutscher Universitäts-Verlag.
 
+- Kariuki D. (2021). Educator compares virtual worlds for education, prefers OpenSim. Hypergrid Business. URL: [https://www.hypergridbusiness.com/2021/11/educator-compares-virtual-worlds-for-education-prefers-opensim/](https://www.hypergridbusiness.com/2021/11/educator-compares-virtual-worlds-for-education-prefers-opensim/) \[2025-04-06]
+
 - Kato, P. M.; Cole, S. W.; Bradlin, A. S. & Pollock, B. (2008). A video games improve behavioral outcomes in adolescents and young adults with cancer: A randomized trial. In: Pediatrics, 122(2), e305-e317. URL: [http://pamkato.com/recent-publications/](http://pamkato.com/recent-publications/) (2013-08-21)
 
-- KZero (2011). Virtual Worlds: Industry & User Data. Universe Chart for Q2 2011. URL: [http://www.slideshare.net/fullscreen/nicmitham/kzero-universe-q2-2011/20](http://www.slideshare.net/fullscreen/nicmitham/kzero-universe-q2-2011/20) \[2013-07-01].
+- KZero (2024). Metaverse monthly active user forecast. SlideShare. URL: [https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267](https://de.slideshare.net/slideshow/kzero-metaverse-monthly-active-user-forecast/273072267) \[2025-04-03]
 
 - Mandl, H.; Gruber, H. & Renkl, M. (2002). Situiertes Lernen in multimedialen Lernumgebungen, In: P. Klimsa (Hrsg.), Information und Lernen mit Multimedia und Internet: Lehrbuch für Studium und Praxis, 3. Aufl., Weinheim: Beltz, 139-148.
+
+- Rakkolainen, I.; Farooq, A.; Kangas, J.; Hakulinen, J.; Rantala, J.; Turunen, M. & Raisamo, R. (2021). Technologies for Multimodal Interaction in Extended Reality—A Scoping Review. Multimodal Technologies and Interaction. URL: [https://doi.org/10.3390/mti5120081](https://doi.org/10.3390/mti5120081) \[2025-04-06]
 
 - Ritterfeld, U.; Cody, M. & Vorderer, P. (2009). Serious Games: Explication of an Oxymoron. Introduction. In: U. Ritterfeld; M. Cody & P. Vorderer (Hrsg.), Serious Games. Mechanism and Effects, New York: Routledge, Taylor and Francis, 3-10.
 
 - Sommer, S. (2012). Spielen für die Karriere. In: Manager-Magazin Online. URL: [http://www.manager-magazin.de/unternehmen/karriere/0,2828,844534,00.html](http://www.manager-magazin.de/unternehmen/karriere/0,2828,844534,00.html) \[2013-07-01]
+
+- Theuermann, C. (2024). Qualifying flight simulators – how to ensure quality training. Axis. URL: [https://www.axis-simulation.com/2024/08/02/qualifying-flight-simulators/](https://www.axis-simulation.com/2024/08/02/qualifying-flight-simulators/) \[2025-04-08]
+
+- Varjo (2025). TRU Simulation Delivers the Next Evolution in Flight Training with Varjo. Varjo. URL: [https://varjo.com/case-studies/tru-simulation-delivers-the-next-evolution-in-flight-training-with-varjo](https://varjo.com/case-studies/tru-simulation-delivers-the-next-evolution-in-flight-training-with-varjo) \[2025-04-08]
+
+- Zhang, J.; Li, G.; Huang, Q.; Feng, Q. & Luo, H. (2022). Augmented Reality in K–12 Education: A Systematic Review and Meta-Analysis of the Literature from 2000 to 2020. MDPI. URL: [https://doi.org/10.3390/su14159725](https://doi.org/10.3390/su14159725) \[2025-04-05]
+
+- Zhao, G.; Fan, M.; Yuan, Y.; Zhao, F. & Huang H. (2021). The comparison of teaching efficiency between virtual reality and traditional education in medical education: a systematic review and meta-analysis. PubMed Central. URL: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7940910/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7940910/) \[2025-04-05]

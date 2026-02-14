@@ -5,6 +5,7 @@
 
 <!-- tags: #netzgeneration,#vertiefung,#theorieforschung -->
 <!-- authors: Patricia Arnold, Ulrich Weber -->
+<!-- revisors: Leonora Hallac -->
 
 ## Empirische Untersuchungen zur Mediennutzung bei Jugendlichen
 

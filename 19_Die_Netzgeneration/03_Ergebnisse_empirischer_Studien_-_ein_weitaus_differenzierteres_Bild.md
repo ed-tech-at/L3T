@@ -3,7 +3,9 @@
 <!-- filename: 03_Ergebnisse_empirischer_Studien_-_ein_weitaus_differenzierteres_Bild.md -->
 <!-- title: Ergebnisse empirischer Studien – ein weitaus differenzierteres Bild -->
 
-Hier sollen vier neuere, repräsentative Studien herangezogen werden, um die Diversität innerhalb der Mediennutzung unter den Jüngeren zu belegen: EU Kids Online (2009), JIM-Studie (2012), ARD/ZDF-Onlinestudie (2009) und die Studie zum Medienhandeln Jugendlicher von Treumann et al. (2007). Diese Studien beleuchten unterschiedliche Aspekte zum Medienhandeln und Mediennutzungsverhalten, unterscheiden sich in Anlage und Detailzielen und entsprechend auch in den Ergebnissen. Sie belegen aber dennoch deutlich, dass das Bild der „Netzgeneration“ mit der pauschalen Vermutung eines einheitlichen und kompetenten Medienhandelns und einer ebensolchen Mediennutzung nicht aufrecht zu erhalten ist.
+Hier sollen vier ältere, repräsentative Studien herangezogen werden, um die Diversität innerhalb der Mediennutzung unter den Jüngeren zu belegen: EU Kids Online (2009), JIM-Studie (2012), ARD/ZDF-Onlinestudie (2009) und die Studie zum Medienhandeln Jugendlicher von Treumann et al. (2007). Diese Studien beleuchten unterschiedliche Aspekte zum Medienhandeln und Mediennutzungsverhalten, unterscheiden sich in Anlage und Detailzielen und entsprechend auch in den Ergebnissen. Sie belegen aber dennoch deutlich, dass das Bild der „Netzgeneration“ mit der pauschalen Vermutung eines einheitlichen und kompetenten Medienhandelns und einer ebensolchen Mediennutzung nicht aufrecht zu erhalten ist.
+
+Im Anschluss werden neuere empirische Studien herangezogen, um die Entwicklung der Mediennutzung deutlich zu machen.
 
 ## ARD/ZDF-Onlinestudie 2009
 
@@ -54,3 +56,42 @@ Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 In Österreich nutzen 41% der Kinder zwischen 3 und 6 Jahren regelmäßig das Internet (Fotos und Videos ansehen). 52% dieser Altersgruppe waren zumindest schon einmal im Netz. Die durchschnittliche Zeit beträgt eine Stunde pro Woche (Saferinternet.at, 2013): „Die Zeit, welche die Mädchen und Buben im World Wide Web verbringen, steigt mit der Internetaffinität der Eltern. ... Die am häufigsten genutzten Geräte sind Computer bzw. Laptop (34 Prozent), Spielkonsolen (14 Prozent), Smartphones der Eltern (elf Prozent) und Tablet-Computer (sechs Prozent).
 
 Die beliebteste Online-Aktivität ist Spielen – 34 Prozent der Drei- bis Sechsjährigen tun es zumindest ab und zu, gefolgt von Fotos Ansehen (33 Prozent), Videos Ansehen (27 Prozent), Musik Hören (24 Prozent), Zeichnen (20 Prozent) und Surfen (zwölf Prozent).”
+
+## JIM-Studie 2024 Jugend, Information, Medien (Deutschland)
+
+Die JIM-Studie, durchgeführt vom Medienpädagoschen Forschungsverband Südwest, zeigt: Jugendliche sind nahezu durchgehend online. Fast alle besitzen ein Smartphone (98%) oder nutzen täglich Social Media (96%). Künstliche Intelligenz spielt eine wachsende Rolle: 57% der Jugendlichen haben, besonders im schulischen Zusammenhang, bereits Tools wie Chat GPT genutzt (57%). Die Studie betont die Notwendigkeit KI im pädagogischen Zusammenhang zu begleiten und notwendige Werkzeuge bereitzustellen, um eine kritische Nutzung zu fördern. Die Studie zeigt vorallem, dass sich die Mediennutzung stark im Inhalt und Umfang variiert. Alter, Geschlecht und Bildungshintergrund beeinflussen die Nutzung deutlich. Jungen verbringen mehr Zeit mit Gaming, während Mädchen soziale Medien bevorzugen. Auch die Reflexion digitaler Inhalte hängt stark mit dem Bildungsgrad des sozialem Umfelds ab. Dieser Teil der Studie hat sich in gewisser Maßen kaum geändert. Wichtig anzumerken ist, die diverse Nutzung einer Vielzahl an unterschiedlicher Mediengeräten: in fast jeder Familien befinden sich bereits mehrere unterschiedliche Mediengeräte wie Smartphones, Computer, Laptop, Tablets, Smart Wearables.
+
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/05_JIMStudie_2024_Gerätebesitz_Vergleich_2023.jpg" alt="Abb. 5: Gerätebesitz Jugendlicher 2024 - Vergleich 2023">
+  <figcaption>Abb. 5: Gerätebesitz Jugendlicher 2024 - Vergleich 2023</figcaption>
+</figure></center>
+
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/06_JIMStudie_2024_Medienbeschäftigung_in_der_Freizeit.jpg" alt="Abb. 6: Medienbeschäftigung in der Freizeit 2024 - Vergleich 2023">
+  <figcaption>Abb. 6: Medienbeschäftigung in der Freizeit 2024 - Vergleich 2023</figcaption>
+</figure></center>
+
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/07_JIMStudie_2024_Erfahrend_von_Weltgeschehen.jpg" alt="Abb. 7: Ich erfahre über das aktuelle Weltgeschehen durch ... 2024 - Vergleich 2023">
+  <figcaption>Abb. 7: Ich erfahre über das aktuelle Weltgeschehen durch ... 2024 - Vergleich 2023</figcaption>
+</figure></center>
+
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/08_JIMStudie_2024_HateSpeech_etc.jpg" alt="Abb. 8: Mir sind im letzten Monat im Internet begegnet ... 2024 - Vergleich 2023">
+  <figcaption>Abb. 8: Mir sind im letzten Monat im Internet begegnet ... 2024 - Vergleich 2023</figcaption>
+</figure></center>
+
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/09_JIMStudie_2024_Nutzungsmotive_KI.jpg" alt="Abb. 9: Nutzungsmotive für KI-Anwendungen 2024">
+  <figcaption>Abb. 9: Nutzungsmotive für KI-Anwendungen 2024</figcaption>
+</figure></center>
+
+## EU Kids Online (2020) - europäischer Mediennutzungsvergleich
+
+Die aktualisierte Studie EU Kids Online untersucht die Internetnutzung von Kindern und Jugendlichen in ganz Europa. Sie betont weiterhin große Unterschiede, wie im Zugang zu Geräten, der Art der Nutzung oder dem Bewusstsein für Risiken. Digitale Teilhabe ist stark vom sozioökonomischen Hintergrund, elterlicher Unterstützung und schulischen Angeboten abhängig. Es gibt also keine einheitliche Kompetenz, sondern eine Vielzahl individueller Ausprägungen. Noch dazu unterstreicht die Studie die aufkommenden Risiken für Kinder im Netz, und zeigt, dass die Jugend immer mehr Hate Speech oder problematischen Inhalten (wie Cybermobbing, Verherrlichung von Essstörungen, sexuellen Inhalten) ausgesetzt ist. Sie weißt auf einen Aufklärungsbedarf durch Aufsichtspersonen hin.
+
+## ICILS 2018 - Computer- und informations- bezogene Kompetenzen  von Schülerinnen und  Schülern im zweiten  internationalen Vergleich und Kompetenzen im Bereich  Computational Thinking
+
+Die internationale Studie ICILS 2018 belegt, dass technische Ausstattung nicht automatisch zu einer universell gleichen Medienkompetenz führt. Die Studie untersuchte die computer- und medienbezogenen Kompetenzen von Achtklässler und Achtklässlerinnen in Deutschland und international. Die Studie zeigte, dass deutsche Lernende im internationalen Vergleich in Bezug auf Medienkompetenz im Mittelfeld liegen. Ein Drittel der Jugendlichen verfügt lediglich über Grundkenntnisse im Umgang mit digitalen Medien. Nur ein geringer Anteil der Befragten erreicht die höchste Kompetenzstufe. Es lässt sich ein starker Zusammenhang zwischen sozialer Herkunft und dem Kompetenzniveau aufzeigen. Jugendliche aus sozial schwächeren Familien weisen tendenziell geringere digitale Kompetenzen auf. Die Notwendigkeit für Fokus auf den Umgang mit digitalen Medien zeigt vor allem die Tatsache, dass die IT-Infrastruktur in deutschen Schulen im internationalen Vergleich verbesserungswürdig ist. Der Einsatz digitaler Medien ist an deutschen Schulen noch immer geringer als an anderen Schulen. Ein unterstützter und kontrollierter Einsatz solcher Medien würde die Technikaffinität auch deutlich stärken.
+
+

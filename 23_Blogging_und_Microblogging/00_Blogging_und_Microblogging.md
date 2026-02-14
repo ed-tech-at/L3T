@@ -5,6 +5,7 @@
 
 <!-- tags: #blogging,#vertiefung,#werkzeugmethode -->
 <!-- authors: Ilona Buchem, Martin Ebner, Sandra Schön, Ralf Appelt, Sascha Kaiser -->
+<!-- revisors: Leonhard Klug -->
 
 ## Anwendungsmöglichkeiten im Bildungskontext
 

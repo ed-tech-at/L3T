@@ -31,7 +31,7 @@ Bei der Nutzung von Blogs in Bildungskontexten müssen von Lehrenden und Lernend
 
 ### In der Praxis: Blogs im Unterricht
 
-Einen Einblick in weitere Einsatzmöglichkeiten von Blogs im Unterricht gibt Lisa Rosa: [http://lisarosa.files.wordpress.com/2009/09/tabelle-typen-weblogs-unterricht-und-schule1.pdf](http://lisarosa.files.wordpress.com/2009/09/tabelle-typen-weblogs-unterricht-und-schule1.pdf)
+Einen Einblick in weitere Einsatzmöglichkeiten von Blogs im Unterricht gibt Lisa Rosa: [https://lisarosa.wordpress.com/wp-content/uploads/2009/09/tabelle-typen-weblogs-unterricht-und-schule1.pdf](https://lisarosa.wordpress.com/wp-content/uploads/2009/09/tabelle-typen-weblogs-unterricht-und-schule1.pdf)
 
 </blockquote>
 
@@ -39,7 +39,7 @@ Einen Einblick in weitere Einsatzmöglichkeiten von Blogs im Unterricht gibt Lis
 
 Die Möglichkeiten des Einsatzes von Microblogs zum Lernen und Lehren sind ebenfalls vielfältig. Microblogs können zum Beispiel den Austausch in *informellen Netzwerken* und den Aufbau von *persönlichen Lernnetzwerken* unterstützen. Die Erweiterung des Kommunikationsraumes über die Grenzen von Bildungsinstitutionen hinaus kann neue Lernwege eröffnen, z.B. können Lernende Einblicke in Gedanken, Veröffentlichungen, Projekte von anerkannten Fachexperten kostenlos und zeitnah gewinnen.
 
-Microblogs eignen sich besonders für den *Ressourcenaustausch* (zumeist Hyperlinks), indem aufgefundene Quellen als Kurznachrichten mitgeteilt werden. Einzelne Twitter-Konten können zu Listen, zum Beispiel nach Thema oder Ort, zugeordnet werden. Einzelne Beiträge können, zum Beispiel zu einem bestimmten Suchwort (Hashtag) und mithilfe spezieller Dienste, archiviert werden. Dadurch entsteht ein Micro-Lerntagebuch.
+Microblogs eignen sich besonders für den *Ressourcenaustausch* (zumeist Hyperlinks), indem aufgefundene Quellen als Kurznachrichten mitgeteilt werden. Einzelne Profile auf X (ehemals Twitter) können zu Listen, zum Beispiel nach Thema oder Ort, zugeordnet werden. Einzelne Beiträge können, zum Beispiel zu einem bestimmten Suchwort (Hashtag) und mithilfe spezieller Dienste, archiviert werden. Dadurch entsteht ein Micro-Lerntagebuch.
 
 Mit dem Aufkommen von Microblogs wurde besonders an vielen *Hochschulen* erprobt, wie man diese in der Lehre einsetzen kann, um damit unter anderem einen größeren Austausch der Studierenden über die Themen der Lehrveranstaltung zu fördern (Schön & Wieden-Bischoff , 2011, 72). Schon früh wurde mit Microblogs, die nur Postings mit 140 Zeichen zulassen, experimentiert und die Frage nach der Einsetzbarkeit in Lernsettings diskutiert (Ebner & Schiefner, 2008; Grosseck & Holotescu, 2008).
 
@@ -59,9 +59,11 @@ Bei der Nutzung von öffentlichen Microblogs ist es wichtig, Lernende über die 
 
 </blockquote>
 
-### In der Praxis: Praxiserfahrungen mit dem Twitter
+### In der Praxis: Twittern im Deutschunterricht
 
-Auf der englischsprachigen Seite [http://madhouseofideas.org/](http://madhouseofideas.org/) sind viele persönliche Geschichten zum Einsatz von Twitter u.a. aus verschiedenen Bildungskontexten zu finden. Auch Sie können dort Ihre Geschichte erzählen oder Ideen für den Einsatz beschreiben!
+Der Landesbildungsserver Baden-Württemberg zeigt, wie Lehrkräfte X (ehemals Twitter) nutzen, um Lernende zur präzisen und kreativen Ausdrucksweise zu motivieren. Durch die Zeichenbegrenzung werden Schülerinnen und Schüler dazu angeregt, Inhalte sprachlich zu verdichten und das Wesentliche auf den Punkt zu bringen.
+
+Quelle: [schule-bw.de – Twittern im Deutschunterricht](https://www.schule-bw.de/faecher-und-schularten/sprachen-und-literatur/deutsch/sprache/twittern-im-deutschunterricht)
 
 </blockquote>
 

@@ -25,7 +25,7 @@ Lernen und Lehren mit Micro-/Blogs kann als Microlearning gestaltet werden, in d
 
 ### In der Praxis: Gespräch mit Martin Lindner
 
-Im L3T-Interview erklärt Martin Lindner den Begriff und den Praxiseinsatz von Microlearning: [http://www.youtube.com/watch?v=Ii-H6IeQ5ag](http://www.youtube.com/watch?v=Ii-H6IeQ5ag)
+Im L3T-Interview erklärt Martin Lindner den Begriff und den Praxiseinsatz von Microlearning: [https://www.youtube.com/watch?v=Ii-H6IeQ5ag](https://www.youtube.com/watch?v=Ii-H6IeQ5ag)
 
 </blockquote>
 
@@ -35,7 +35,7 @@ Das Lernen mit Micro-/Blogs kann auch als Lernen in persönlichen Lernnetzwerken
 
 Auch die konnektivistische Sichtweise auf das Lernen betont die Rolle sozialer Interaktionen in Netzwerken für das Lernen (Siemens, 2005).
 
-Persönliche Lernnetzwerke (engl. ‚personal learning networks‘, PLN) können nach Couros (2010) als Summe aller sozialen Verbindungen definiert werden, die sich durch die Nutzung von Web-2.0-Diensten ergeben. Lernende nutzen und verbinden die verschiedenen Web-2.0-Dienste, u.a. Micro-/Blogs, individuell, nach eigenen Bedürfnissen und Präferenzen. Daraus ergeben sich sogenannte persönliche Lernumgebungen (engl. ,personal learning environments‘, ‚PLE‘). Eine wichtige Aufgabe der Lehrenden und der Lernenden ist demnach ein gezielter Aufbau von Lernnetzwerken durch die Nutzung von Web 2.0, u.a. Micro-/Blogs. So können Lehrende die Lernenden dabei unterstützen, Kontakte in bestimmten Netzwerken aufzubauen oder auf relevante Netzwerke hinweisen (z.B. bloggende Experten- oder Interessennetzwerke in Twitter, die unter Verwendung von Schlüsselwörtern, sog. Hashtags, zu finden sind).
+Persönliche Lernnetzwerke (engl. ‚personal learning networks‘, PLN) können nach Couros (2010) als Summe aller sozialen Verbindungen definiert werden, die sich durch die Nutzung von Web-2.0-Diensten ergeben. Lernende nutzen und verbinden die verschiedenen Web-2.0-Dienste, u.a. Micro-/Blogs, individuell, nach eigenen Bedürfnissen und Präferenzen. Daraus ergeben sich sogenannte persönliche Lernumgebungen (engl. ,personal learning environments‘, ‚PLE‘). Eine wichtige Aufgabe der Lehrenden und der Lernenden ist demnach ein gezielter Aufbau von Lernnetzwerken durch die Nutzung von Web 2.0, u.a. Micro-/Blogs. So können Lehrende die Lernenden dabei unterstützen, Kontakte in bestimmten Netzwerken aufzubauen oder auf relevante Netzwerke hinweisen (z.B. bloggende Experten- oder Interessennetzwerke auf Plattformen wie X (ehemals Twitter), die unter Verwendung von Schlüsselwörtern, sog. Hashtags, zu finden sind).
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
@@ -47,7 +47,7 @@ Lernen mit Blogs und Microblogs kann als Lernen in persönlichen Lernnetzwerken 
 
 ### In der Praxis: Persönliche Lernnetzwerke aus Sicht der Lernenden
 
-Ein Studierender beschreibt in einem Blogbeitrag eigene Erfahrungen zur Nutzung von Twitter im Studium und geht auf die Vorteile der sozialen Vernetzung ein: [http://danyo-is-an-oj.blogspot.de/2008/01/twitter-im-studium-zwischenbilanz.html](http://danyo-is-an-oj.blogspot.de/2008/01/twitter-im-studium-zwischenbilanz.html)
+Ein Studierender beschreibt in einem Blogbeitrag eigene Erfahrungen zur Nutzung von Twitter im Studium und geht auf die Vorteile der sozialen Vernetzung ein: [https://danyo-is-an-oj.blogspot.com/2008/01/twitter-im-studium-zwischenbilanz.html](https://danyo-is-an-oj.blogspot.com/2008/01/twitter-im-studium-zwischenbilanz.html)
 
 </blockquote>
 
@@ -63,12 +63,12 @@ Die Erstellung von digitalen Dokumentationen durch den Einsatz von Micro-/Blogs 
 
 ### !
 
-Lernen mit Blogs und Microblogs kann nach dem Ansatz von E-Portfolio gestaltet werden. Die Lernenden Nutzen Micro-/Blogs, um eine eigene digitale Dokumentation von Lernprozessen und Lernergebnissen zu erstellen.
+Lernen mit Blogs und Microblogs kann nach dem Ansatz von E-Portfolio gestaltet werden. Die Lernenden nutzen Micro-/Blogs, um eine eigene digitale Dokumentation von Lernprozessen und Lernergebnissen zu erstellen.
 
 </blockquote>
 
 ### In der Praxis: Einsatz von Blogs zur Erstellung von E-Portfolios in der Hochschullehre
 
-Im kursbegleitenden Seminar-Blog stellt Ilona Buchem Beispiele von E-Portfolios der Studierenden vor, die mit Hilfe von Blogs (u.a. auf der Basis von Wordpress) im Hochschulstudium eingesetzt werden: [http://aw448.wordpress.com/](http://aw448.wordpress.com/)
+Im kursbegleitenden Seminar-Blog stellt Ilona Buchem Beispiele von E-Portfolios der Studierenden vor, die mit Hilfe von Blogs (u.a. auf der Basis von Wordpress) im Hochschulstudium eingesetzt werden: [https://aw448.wordpress.com](https://aw448.wordpress.com)
 
 </blockquote>

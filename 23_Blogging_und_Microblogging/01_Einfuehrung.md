@@ -19,6 +19,6 @@ Blogs und Microblogs können in formellen und informellen Lehr-/Lernkontexten in
 
 ### !
 
-Weiterführende Links: L3T-Gruppe bei Diigo unter Verwendung der Hashtags #l3t #blogging #microblogging. Ein Video “Microblogging: Leben in 140 Zeichen” vom Elektrischen Reporter: [http://www.elektrischer-reporter.de/elr/video/83](http://www.elektrischer-reporter.de/elr/video/83)
+Weiterführende Links: L3T-Gruppe bei Diigo unter Verwendung der Hashtags #l3t #blogging #microblogging. Ein Video “Microblogging: Leben in 140 Zeichen” vom Elektrischen Reporter: [http://www.elektrischer-reporter.de/elr/video/83](https://www.youtube.com/watch?v=2wz_umllvhA&list=PLDF6C328491D8C19B)
 
 </blockquote>

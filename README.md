@@ -36,23 +36,26 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
 3. Erstelle einen **Pull-Request (PR)**, um deine Änderungen zur Überprüfung einzureichen.
     > 💡 **Tipp**: Falls du unsicher bist, wie man einen PR erstellt, sieh dir [diese Anleitung](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) an!
 
-    
     - Beschreibe im Pull-Request in Kürze, welche Änderungen du vorgenommen hast.
-    - Gib ggf. auch an, welche Issues diese Änderung behebt. 
-4. Die Inhalte werden manuell geprüft. 
-    - Falls in Ordnung: PR wird akzeptiert und ins [L3T-BookStack](https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien) übertragen. 
-    - Falls weitere Anpassungen nötig: Wird mit Kommentar zurückgewiesen.
+    - Gib ggf. auch an, welche Issues diese Änderung behebt.
+4. Die Inhalte werden geprüft:
+    - Automatisiert: Beim Erstellen werden die vorgenommenen Änderungen automatisch auf viele typische Fehlerquellen überprüft (Details siehe weiter unten).
+        - Fehler müssen behoben werden, damit der PR akzeptiert wird.
+        - Warnungen sollten behoben werden, blockieren den PR aber nicht.
+    - Manuell: Eine weitere manuelle Prüfung der Änderungen wird von den Administratoren bzw. Autoren vorgenommen.
+        - Falls in Ordnung: PR wird akzeptiert und ins [L3T-BookStack](https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien) übertragen. 
+        - Falls weitere Anpassungen nötig: Wird mit Kommentar zurückgewiesen.
 
 ### 🔹 Automatische Überprüfung
 
 Bei jedem Pull-Request werden **automatische Checks** durchgeführt, die häufige Fehler erkennen:
 
 **✅ Was wird geprüft:**
-- **Metadaten:** filename, title, authors, tags, revisors, slugs, url (Format und Vollständigkeit)
+- **Metadaten:** filename, title, authors, tags, revisors, slugs, url (Format & Vollständigkeit)
 - **Bilder:** GitHub-URLs, alt-Tags & figcaptions (müssen identisch sein!), Zentrierung
 - **Blockquotes:** Korrekte Farben und Stil (blau/rot/grün für verschiedene Typen)
 - **Figurennummerierung:** Fortlaufende Nummerierung (Abb. 1, 2, 3...) pro Kapitel
-- **APA-Zitierungen:** Fehlende Jahre, fehlerhafte URLs, nicht verwendete Referenzen
+- **APA-Zitierungen:** Fehlende Jahre, fehlerhafte URLs, Zugriffsdaten, Einheitlichkeit
 - **Dateistruktur:** Nur erlaubte Dateitypen (.md, Bilder), korrekte Ordnerstruktur
 - **Markdown-Links:** Fehlende oder fehlerhafte Links
 - **Tabellen:** Konsistente Spaltenanzahl

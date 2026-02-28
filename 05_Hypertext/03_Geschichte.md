@@ -43,7 +43,7 @@ Die Vision von Bush fand Nachfolger/innen (Bush, 1986; Conklin, 1987, 20; Kuhlen
 
 Zum Vertiefen:
 
-- Die Stanford University veröffentlicht eine Reihe historischer Dokumente, u.a. auch 35 kleine Filme zu Doug Engelbarts Arbeit am Bildschirm [(http://sloan.stanford.edu/mousesite/1968Demo.html](http://%28http://sloan.stanford.edu/mousesite/1968Demo.html)).
+- Die Stanford University veröffentlicht eine Reihe historischer Dokumente, u.a. auch 35 kleine Filme zu Doug Engelbarts Arbeit am Bildschirm [(http://sloan.stanford.edu/mousesite/1968Demo.html](http://sloan.stanford.edu/mousesite/1968Demo.html)).
 - Die Software Preservation Site unterhält Quellen zu NLS Augment (vgl. [http://www.softwarepreservation.org/projects/nlsproject/](http://www.softwarepreservation.org/projects/nlsproject/)).
 
 </blockquote>
@@ -112,6 +112,6 @@ Intermedia Version 3.0 wurde anfangs kommerziell vertrieben. Aber diese Version 
 
 ### !
 
-Zum Vertiefen: Die Geschichte von Intermedia zeichnet die „Electronic Library“ [(http://elab.eserver.org/hfl0032.html](http://%28http://elab.eserver.org/hfl0032.html)) nach.
+Zum Vertiefen: Die Geschichte von Intermedia zeichnet die „Electronic Library“ [(http://elab.eserver.org/hfl0032.html](http://elab.eserver.org/hfl0032.html)) nach.
 
 </blockquote>

@@ -11,7 +11,7 @@ Einige digitale Werkzeuge können, richtig ausgewählt und eingesetzt, beim Spei
 
 ### !
 
-Ein interessantes Beispiel für eine Verabredung dieser Art im großen Maßstab ist Peter Subers „Open Access Tagging Project“ - [http://oad.simmons.edu/oadwiki/ OA\_tracking\_project](http://http://oad.simmons.edu/oadwiki/%20OA_tracking_project)
+Ein interessantes Beispiel für eine Verabredung dieser Art im großen Maßstab ist Peter Subers „Open Access Tagging Project“ - [http://oad.simmons.edu/oadwiki/ OA\_tracking\_project](http://oad.simmons.edu/oadwiki/%20OA_tracking_project)
 
 </blockquote>
 

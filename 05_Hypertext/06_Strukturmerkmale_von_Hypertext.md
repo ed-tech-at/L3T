@@ -27,7 +27,7 @@ Suchen und lesen Sie eine Hypertext-Erzählung im Internet und diskutieren Sie, 
 
 - [http://www.netzliteratur.net/netzliteratur\_theorie.php](http://www.netzliteratur.net/netzliteratur_theorie.php)
 - [http://www.eastgate.com/](http://www.eastgate.com/)
-- Das Buchprojekt „Null“, welches auch gedruckt wurde: [http://www.literaturkritik.de/public/rezension.php?rez\_id=3806](http://http://www.literaturkritik.de/public/rezension.php?rez_id=3806)
+- Das Buchprojekt „Null“, welches auch gedruckt wurde: [http://www.literaturkritik.de/public/rezension.php?rez\_id=3806](http://www.literaturkritik.de/public/rezension.php?rez_id=3806)
 
 </blockquote>
 

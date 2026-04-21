@@ -23,6 +23,8 @@
 
 - Gersch, M.; Lehr, C. & Fink, C. (2010). Formen, Einsatz- und Kombinationsmöglichkeiten von E-Learning-Content – Ein Systematisierungsansatz am Beispiel kooperativer Lernarrangements. In: Tagungsband GML 2010, Berlin
 
+- Kasneci, E., Seßler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., ... & Kasneci, G. (2023). ChatGPT for good? On opportunities and challenges of large language models for education. _Learning and individual differences_, _103_, 102274.
+
 - Lehr, C. (2011). Web 2.0 in der universitären Lehre: ein Handlungsrahmen für die Gestaltung technologiegestützter Lernszenarien. Diss. Berlin, Freie Universität Berlin, Diss.
 
 - Mair, D. (2005). E-Learning – das Drehbuch. Handbuch für Medienautoren und Projektleiter. Berlin u.a.: Springer
@@ -52,3 +54,5 @@
 - Weber, P.; Abuhamdieh, A. (2011). Educational Service Strategy: Educational Service Platforms and E-Learning Patterns . International Journal of Instructional Technology & Distance Learning, Vol. 8(4), 3-14
 
 - Wheeler, S.; Yeomans, P. & Wheeler, D. (2008). The good, the bad and the wiki: Evaluating student-generated content for collaborative learning. British Journal of Educational Technology, 39(6), 987-995
+
+- Zawacki-Richter, O., Marín, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education–where are the educators?. _International journal of educational technology in higher education_, _16_(1), 39.

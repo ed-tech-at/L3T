@@ -29,7 +29,7 @@ Eine weitere Variante stellt der Epiprojektor dar, der im Gegensatz dazu auch un
 Mit dem Videoprojektor, häufig als Beamer bezeichnet, erfolgte schließlich der Übergang zur digitalen Projektion. Hier werden Bild- und Videosignale von Computern oder anderen Quellen direkt auf eine Projektionsfläche übertragen. Diese Technologie bildet bis heute die Grundlage vieler Präsentationssysteme.
 
 <center><figure>
-  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/07_Videoprojektor.jpg" alt="Abb. 7: Videoprojektor">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/07_Videoprojektor.jpg" alt="Abb. 6: Videoprojektor">
   <figcaption>Abb. 6: Videoprojektor</figcaption>
 </figure></center>
 

@@ -5,7 +5,7 @@
 
 <!-- tags: #ipad,#einfuerung,#geschichte -->
 <!-- authors: Andreas Wittke, Martin Ebner, Clemens Kröll -->
-<!-- revisor: Alexander Zmug -->
+<!-- revisors: Alexander Zmug -->
 
 ## Eine technische Übersicht
 

@@ -11,6 +11,6 @@ Gleichzeitig stellen Smartphones auch Herausforderungen dar. Schnelle Innovation
 
 <center><figure>
   <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/11_Smartphone.jpg" alt="Abb. 11: Smartphone">
-  <figcaption>Abb. 11: Mobiltelefon</figcaption>
+  <figcaption>Abb. 11: Smartphone</figcaption>
 </figure></center>
 

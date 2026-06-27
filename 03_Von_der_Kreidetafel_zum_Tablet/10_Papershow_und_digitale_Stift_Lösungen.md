@@ -1,5 +1,5 @@
-<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/papershow -->
-<!-- slug: papershow digitale Stift Lösungen -->
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/papershow-und-digitale-stift-losungen -->
+<!-- slug: papershow-und-digitale-stift-losungen -->
 <!-- filename: 10_Papershow_und_digitale_Stift_Lösungen.md -->
 <!-- title: Papershow und digitale Stift Lösungen-->
 

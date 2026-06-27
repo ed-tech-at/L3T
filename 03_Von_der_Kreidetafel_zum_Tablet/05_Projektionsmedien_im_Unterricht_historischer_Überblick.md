@@ -1,5 +1,5 @@
-<!-- URL: -->
-<!-- slug: projektionsmedien -->
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/projektionsmedien-im-unterricht-historischer-uberblick -->
+<!-- slug: projektionsmedien-im-unterricht-historischer-uberblick -->
 <!-- filename: 05_Projektionsmedien_im_Unterricht_historischer_Überblick.md -->
 <!-- title: Projektionsmedien im Unterricht (historischer Überblick) -->
 

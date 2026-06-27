@@ -1,5 +1,5 @@
-<!-- URL: -->
-<!-- slug: KI -->
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/kunstliche-intelligenz-im-unterricht -->
+<!-- slug: kunstliche-intelligenz-im-unterricht -->
 <!-- filename: 13_Künstliche_Intelligenz_im_Unterricht.md -->
 <!-- title: Künstliche Intelligenz im Unterricht -->
 

@@ -1,4 +1,4 @@
-<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/pc-laptop-und-netbook -->
+<!-- URL: https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien/page/pc-und-laptop -->
 <!-- slug: pc-und-laptop -->
 <!-- filename: 08_PC_und_Laptop.md -->
 <!-- title: PC und Laptop -->

@@ -6,7 +6,7 @@
 Touchscreens ermöglichen die direkte Interaktion mit digitalen Inhalten durch Berührung des Bildschirms. Im Gegensatz zur klassischen Eingabe über Maus und Tastatur erfolgt die Steuerung unmittelbar mit dem Finger oder einem Eingabestift (Stylus). Diese Form der Interaktion hat sich insbesondere durch mobile Geräte wie Smartphones, Tablets und interaktive Displays weit verbreitet.
 
 <center><figure>
-  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/06_Touchscreen.jpg" alt="Abb. 6: Touchscreen">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/06_Touchscreen.jpg" alt="Abb. 7: Touchscreen">
   <figcaption>Abb. 7: Touchscreen</figcaption>
 </figure></center>
 

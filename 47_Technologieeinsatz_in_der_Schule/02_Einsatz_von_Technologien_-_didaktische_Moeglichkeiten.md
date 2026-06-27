@@ -41,6 +41,10 @@ Ein Spezialfall ist der EDV- bzw. Informatikunterricht. Dort standen bisher meis
 
 Tab.1: Beispiele für den Einsatz von Technologien zum Lernen und Lehren im Schulunterricht
 
+## Didaktische Gestaltung von Lerninhalten auf Social Media
+Ergänzend dazu gewinnen heute auch soziale Medien als Lernumgebungen zunehmend an Bedeutung (Mayer, 2024). Damit Lerninhalte auf Plattformen wie TikTok oder Instagram nicht nur Aufmerksamkeit erzeugen, sondern auch zum Verstehen beitragen, müssen sie didaktisch bewusst gestaltet sein (Perez et al., 2023). Besonders wichtig sind dabei eine reduzierte und inhaltlich klare Darstellung (Reyna et al., 2018), eine gut erkennbare Struktur (Noetel et al., 2022) sowie die sinnvolle Abstimmung von visuellen und sprachlichen Elementen (Mayer, 2024). Gerade in digitalen Umgebungen mit vielen konkurrierenden Reizen können übersichtliche, klar segmentierte und verständlich formulierte Inhalte dazu beitragen, die kognitive Belastung zu verringern und Lernprozesse zu unterstützen (Fyfield et al., 2022).
+Zugleich zeigt sich, dass der didaktische Wert digitaler Inhalte nicht allein von der verwendeten Plattform abhängt, sondern vor allem von ihrer pädagogischen Qualität (Perez et al., 2023). Schulisch nutzbare Beiträge sollten daher fachlich korrekt aufbereitet sein (Lu et al., 2020), an Lernzielen orientiert werden (Perez et al., 2023) und an die Lebenswelt der Lernenden anknüpfen (Narayan et al., 2019). Auch interaktive Elemente wie Fragen, kurze Selbsttests oder Kommentarmöglichkeiten können die aktive Auseinandersetzung mit Inhalten fördern (Katz & Nandi, 2021). Gleichzeitig ist darauf zu achten, Aufmerksamkeit gezielt zu lenken, ohne durch übermäßige Reize oder unübersichtliche Gestaltung zusätzliche Belastung zu erzeugen (Bautista et al., 2023).
+
 ## Webangebote für Lernende und Lehrende
 
 Im Web werden von Verlagen zahlreiche elektronische Zusatzmaterialen zu Büchern und Schulbüchern angeboten. Ein Beispiel dafür ist das Online-Angebot SbX (Schulbuch Extra) im Rahmen der österreichischen Schulbuchaktion, wo Schüler/innen Übungs- und Selbsttestmöglichkeiten wie auch Hörtexte und Videoanimationen vorfinden.

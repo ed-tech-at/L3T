@@ -12,3 +12,4 @@ Der Einsatz von neuen Technologien im Unterricht schreitet in unserer Informatio
 
 Der Artikel kann naturgemäß die Vielfalt der Entwicklungen nicht umfassend darstellen und erhebt auch nicht den Anspruch einer konsistenten Systematik; er orientiert sich eher an dem Ansatz einer Webform der Argumentation (prinzipiell unabgeschlossen, offen, rhizomatisch etc.), wie sie im angelsächsischen Bereich zum Beispiel von David Weinberger (2010) favorisiert wird.
 
+Der Einsatz digitaler Medien im Unterricht hat in den vergangenen Jahren deutlich an Bedeutung gewonnen. Besonders Social Media ist für die Sekundarstufe relevant, da diese Plattformen fest im Alltag vieler Schüler/innen verankert sind. Vereinzelt werden sie bereits genutzt, um Materialien bereitzustellen oder interaktive Aufgaben umzusetzen. Durch ihre multimedialen Formate können sie Lernmotivation und aktive Auseinandersetzung fördern (Dwinggo Samala et al., 2024).

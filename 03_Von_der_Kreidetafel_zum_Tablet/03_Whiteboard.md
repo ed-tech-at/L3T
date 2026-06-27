@@ -9,4 +9,6 @@
 </figure></center>
 
 
-1990 eingeführt gilt die weiße Tafel, das „Whiteboard“, als Weiterentwicklung der Kreidetafel und wird anstatt mit Kreide mit sogenannten Whiteboard-Stiften, speziellen abwischbaren Filzstiften, beschrieben. Wie bei der Kreidetafel wird für die Herstellung Kunststoff oder Stahlemaille verwendet. Bei Verwendung von Stahlemaille kann ein Whiteboard auch als Magnettafel fungieren. Um Aufschriften von einem Whiteboard zu entfernen, wird ein trockenes Tuch oder ein trockener Schwamm verwendet. Ein Vorteil gegenüber der Kreidetafel ist, dass beim Beschreiben und Löschen der Tafel kein Staub entsteht, jedoch ist das mit Stiften Geschriebene oft schwerer für das Auditorium lesbar.
+Das Whiteboard wurde in den 1990er-Jahren als Weiterentwicklung der Kreidetafel eingeführt und wird mit speziellen, abwischbaren Filzstiften beschrieben. Die Oberfläche besteht meist aus Kunststoff oder emailliertem Stahl, wobei letztere Variante zusätzlich als Magnettafel genutzt werden kann. Zum Entfernen der Inhalte werden in der Regel trockene Tücher oder Schwämme verwendet.
+
+Ein wesentlicher Vorteil gegenüber der Kreidetafel besteht darin, dass beim Schreiben und Löschen kein Staub entsteht. Gleichzeitig kann die Lesbarkeit der Schrift je nach Stiftqualität und Schreibweise eingeschränkt sein. Wie die Kreidetafel dient auch das Whiteboard primär der Visualisierung und Unterstützung mündlicher Erklärungen im Unterricht.

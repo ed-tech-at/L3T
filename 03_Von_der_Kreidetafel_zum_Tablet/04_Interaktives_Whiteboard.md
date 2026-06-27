@@ -3,12 +3,15 @@
 <!-- filename: 04_Interaktives_Whiteboard.md -->
 <!-- title: Interaktives Whiteboard -->
 
-Nicht direkt als Weiterentwicklung, aber durch die Namensgleichheit schwer unterscheidbar, ist das „interaktive“ Whiteboard, oft auch nach dem Marktführer „Smart Board“ genannt. Hier ist meist eine kleine interaktive Tafel gemeint, auf der ein Monitorbild zu sehen ist, das man per Hand oder mit Computer-Stiften bemalen kann. Das Bild wird entweder per Beamer, der unmittelbar über der Tafel angebracht ist, oder mittels großem Touchscreen dargestellt. Spezielle Software unterstützt dabei die Stifte und bindet sich in Standardlösungen (wie Powerpoint und Internet Explorer) ein. Die gesamte Software befindet sich beispielsweise im Anschlusskabel und wird bei Anschluss auf einem Präsentationsrechner installiert. Das Whiteboard selbst hat keinen Rechner.
+Interaktive Whiteboards sind digitale Präsentationssysteme, die klassische Tafelarbeit mit computerbasierten Funktionen verbinden. Trotz der Namensähnlichkeit stellen sie keine direkte Weiterentwicklung des analogen Whiteboards dar, sondern eine eigenständige Technologie. Häufig werden sie auch nach bekannten Herstellern als „Smart Boards“ bezeichnet.
 
-Der Vorteil ist die Kombination aus Altem und Neuem. So kann man fast wie mit der Kreidetafel arbeiten, zum Beispiel per Stift mehrfarbig zeichnen und zum Löschen einfach mit dem Handballen wischen. Hinzu kommt die Möglichkeit, das Tafelbild digital zu speichern. Bei Powerpoints kann man nun auch Anmerkungen aktiv einzeichnen oder digitale Inhalte aus dem Netz (zum Beispiel Google Maps)  
-vorführen. Videos (zum Beispiel von YouTube und Vimeo) können mit den eingebauten Lautsprechern abgespielt werden. Mit der Undo- und Redo-Funktionen können sehr schnell vorbereitete Zeichnungen dargestellt und quasi als Stop-Motion-Film vorgeführt werden. Leider steht man auch hier meist mit dem Rücken zum Auditorium. Es gibt jedoch Möglichkeiten, den Beamer auch per Laptop oder Tablet zu bedienen.
+Technisch handelt es sich um berührungssensitive Oberflächen, auf denen digitale Inhalte dargestellt und direkt bearbeitet werden können. Die Anzeige erfolgt entweder über einen angeschlossenen Projektor oder über integrierte Touchscreens. Die Bedienung erfolgt per Finger oder speziellen Stiften, während eine zugehörige Software Funktionen wie Schreiben, Zeichnen und Speichern unterstützt und sich in gängige Anwendungen wie Microsoft PowerPoint oder Webbrowser integriert.
 
-Erwähnenswert ist in diesem Zusammenhang die im Zusammenspiel mit der Nintendo Wii kostengünstigere „selbstgebaute“ Variante eines interaktiven Whiteboards, welche von Johnny Lee Chung entwickelt wurde. Dabei wird versucht, mithilfe von Infrarot die Stiftbewegung aufzunehmen und mittels Projektor zu projizieren.
+Ein zentraler Vorteil liegt in der Kombination aus handschriftlicher Eingabe und digitalen Möglichkeiten. Inhalte können wie auf einer Tafel entwickelt, gleichzeitig jedoch gespeichert, weiterverarbeitet und erneut aufgerufen werden. Zudem lassen sich multimediale Inhalte wie Karten, Präsentationen oder Videos direkt einbinden.
+
+Als nachteilig gilt, dass Lehrende häufig weiterhin mit dem Rücken zur Lerngruppe arbeiten. Zudem erfordert der Einsatz technisches Grundverständnis sowie eine funktionierende Infrastruktur. Moderne Systeme ermöglichen jedoch zunehmend eine Steuerung über mobile Geräte wie Tablets, wodurch die Interaktion flexibler gestaltet werden kann.
+
+Neben kommerziellen Lösungen existieren auch experimentelle und kostengünstige Ansätze, etwa die von Johnny Lee Chung entwickelte Variante auf Basis der Nintendo Wii, bei der Bewegungen mithilfe von Infrarottechnologie erfasst werden.
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 

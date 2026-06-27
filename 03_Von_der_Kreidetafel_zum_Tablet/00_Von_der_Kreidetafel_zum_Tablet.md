@@ -5,8 +5,13 @@
 
 <!-- tags: #ipad,#einfuerung,#geschichte -->
 <!-- authors: Andreas Wittke, Martin Ebner, Clemens Kröll -->
+<!-- revisor: Alexander Zmug -->
 
 ## Eine technische Übersicht
 
-Ausgewählte Endgeräte werden in historischer Reihenfolge vorgestellt, unter anderem die analoge Kreidetafel, das Whiteboard sowie Fernseher, Laptop und Beamer bis hin zum interactive Pen Display, zur Papershow und dem iPad. Die einzelnen Übersichten geben eine technische Beschreibung, bieten kurze Reflexionen und verweisen auf weiterführende Quellen. Das Kapitel schließt mit Kurzbeschreibungen aktueller Geräte auf dem Markt, die Potenzial im Bildungsbereich haben. Letzteres ist aus derzeitiger Sicht spekulativ und es wird sich erst zeigen, inwieweit sie am Bildungsmarkt Fuß fassen können. Bei allen Beschreibungen liegt der Fokus auf den technischen Daten und Funktionalitäten der Geräte und weniger auf den unterschiedlichen Einsatzmöglichkeiten im Klassenzimmer und Seminarraum.
+Die Entwicklung von Unterrichtstechnologien reicht von analogen Hilfsmitteln wie der Kreidetafel bis hin zu digitalen, vernetzten Systemen. Während frühere Medien vor allem der Visualisierung dienten, ermöglichen moderne Geräte zunehmend interaktive und individualisierte Lernprozesse.
+
+Dieses Kapitel gibt einen Überblick über zentrale Endgeräte im Bildungsbereich und ordnet sie in ihre technologische Entwicklung ein. Neben der Beschreibung technischer Eigenschaften werden auch aktuelle Einsatzkontexte berücksichtigt. Ein besonderer Fokus liegt auf heutigen Technologien wie Tablets, interaktiven Displays und digitalen Plattformen sowie auf neuen Entwicklungen im Bereich der künstlichen Intelligenz, etwa durch Anwendungen wie ChatGPT.
+
+Abschließend werden aktuelle und aufkommende Technologien skizziert, deren zukünftige Bedeutung im Bildungsbereich noch offen ist. Dabei steht nicht nur die Technik im Vordergrund, sondern auch deren didaktische Einbindung und ihr Einfluss auf Lehr- und Lernprozesse.
 

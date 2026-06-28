@@ -17,7 +17,7 @@ Mobile Endgeräte wie Smartphones und Tablets ermöglichen eine noch stärkere r
 Insbesondere in globaler Perspektive spielen mobile Technologien eine wichtige Rolle für den Zugang zu Bildung, da sie auch in Regionen mit eingeschränkter Infrastruktur weit verbreitet sind. In diesem Zusammenhang wird zunehmend von „ubiquitärem Lernen“ gesprochen, das Lernen jederzeit und überall ermöglicht.
 
 
-## Gemeinsames Lernen im Web 2.0
+## Gemeinsames Lernen im Web 2.0 und darüber hinaus
 
 Der Begriff Web 2.0 beschreibt interaktive Anwendungen des Internet, bei denen Nutzerinnen und Nutzer nicht nur Inhalte konsumieren, sondern selbst erstellen und teilen können (O'Reilly, 2005). Zentrale Beispiele sind Wikis, Blogs oder Plattformen zum Austausch von Bildern und Videos. Diese Entwicklung hat die Rolle der Lernenden verändert: Sie sind nicht mehr nur Konsumentinnen und Konsumenten, sondern auch aktive Produzentinnen und Produzenten von Wissen.
 

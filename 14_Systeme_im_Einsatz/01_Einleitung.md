@@ -3,8 +3,30 @@
 <!-- filename: 01_Einleitung.md -->
 <!-- title: Einleitung -->
 
-Rahmenbedingungen und Lehrmittel beeinflussen und gestalten implizit Lernprozesse: Mit einem Buch unterrichte ich anders als mit einer Tafel, in einem Stuhlkreis anders als in einem Hörsaal. Auch Technologien wirken sich auf den Unterricht und das Lernen aus. Solche Effekte werden von Lehrenden zum einen angestrebt und genutzt; zum anderen wirken sich die verwendeten Technologien auch unbewusst auf den Unterricht und das Lernen aus.
 
-In diesem Kapitel werden wir mehrere Formen von technologischen Systemen zur Verwaltung des Lernen und Lehrens betrachten (für weitere technische Informationen siehe Kapitel #infosysteme und #webtech): Diese sind webbasierte Trainingssysteme (WBT), Lernmanagementsysteme (LMS), E-Portfolio-Systeme, sogenannte persönliche Lernumgebungen (PLE) und schließlich Systeme für Massive Open Online Courses (MOOCs). Es geht also nicht um die inhaltliche Umsetzung oder didaktische Aufbereitung für das Lernen und Lehren, sondern um die Systeme, mit denen das webbasierte Lernen aktuell gesteuert, verwaltet und dokumentiert wird.
+Rahmenbedingungen und Lehrmittel beeinflussen und gestalten implizit Lernprozesse: Mit einem Buch unterrichte ich anders
+als mit einer Tafel, in einem Stuhlkreis anders als in einem Hörsaal. Auch Technologien wirken sich auf den Unterricht
+und das Lernen aus. Solche Effekte werden von Lehrenden zum einen angestrebt und genutzt; zum anderen wirken sich die
+verwendeten Technologien auch unbewusst auf den Unterricht und das Lernen aus.
 
-Diese Systeme wurden ausgewählt, da sie einen besonderen Stellenwert einnehmen: Lernmanagementsysteme und E-Portfolio-Systeme sind weit verbreitet und werden seit längerer Zeit diskutiert, auch kritisiert und immer wieder an neue Bedürfnisse angepasst. Bei den webbasierten Trainingssystemen geht es, darauf weist auch die Bezeichnung hin, um (webbasierte) in sich geschlossene Lerneinheiten, die aus dem Internet oder innerhalb eines Intranets abgerufen werden. Sie erlauben den Lernenden mehr Flexibilität in räumlicher und zeitlicher Gestaltung ihres Lernprozesses. Die weiteren Konzepte sind eher jung: Persönliche Lernumgebungen fokussieren konsequent auf die Perspektive der Lernenden und erlauben diesen, ihre individuelle Informations- und Kommunikationsumgebung zu gestalten. Unter Massive Open Online Courses versteht man eine spezielle Form eines Onlinekurses, der im Vorhinein vorbereitet und mit multimedialen Inhalten angeboten wird. Wie der Name schon sagt, handelt es sich dabei meistens um Kurse mit einer sehr hohen Anzahl an Teilnehmenden. All diese Systeme werden wir in diesem Beitrag aus der Perspektive der pädagogischen Praxis beschreiben, indem wir skizzieren, welche Aufgaben diese Systeme übernehmen und wie solche Rahmenbedingungen gegebenenfalls das Lernen beeinflussen. Zum besseren Verständnis stellen wir diese Systeme als prototypische Konzepte vor. ### In der Praxis sind die realen Produkte oft weniger trennscharf konzipiert.
+In diesem Kapitel werden wir mehrere Formen von technologischen Systemen zur Verwaltung des Lernens und Lehrens
+betrachten (für weitere technische Informationen siehe Kapitel #infosysteme und #webtech): Diese sind webbasierte
+Trainingssysteme (WBT), Lernmanagementsysteme (LMS), E-Portfolio-Systeme, sogenannte persönliche Lernumgebungen (PLE)
+und schließlich Systeme für Massive Open Online Courses (MOOCs). Es geht also nicht um die inhaltliche Umsetzung oder
+didaktische Aufbereitung für das Lernen und Lehren, sondern um die Systeme, mit denen das webbasierte Lernen aktuell
+gesteuert, verwaltet und dokumentiert wird.
+
+Diese Systeme wurden ausgewählt, da sie einen besonderen Stellenwert einnehmen: Lernmanagementsysteme und
+Massive Open Online Courses (MOOC) sind weit verbreitet und werden seit längerer Zeit diskutiert, auch kritisiert und immer wieder an
+neue Bedürfnisse angepasst. Bei den webbasierten Trainingssystemen geht es, darauf weist auch die Bezeichnung hin, um
+(webbasierte) in sich geschlossene Lerneinheiten, die aus dem Internet oder innerhalb eines Intranets abgerufen werden.
+Sie erlauben den Lernenden mehr Flexibilität in räumlicher und zeitlicher Gestaltung ihres Lernprozesses. Die weiteren
+Konzepte sind eher weniger verbreitet:
+Persönliche Lernumgebungen fokussieren konsequent auf die Perspektive der Lernenden und erlauben diesen, ihre
+individuelle Informations- und Kommunikationsumgebung zu gestalten. Unter E-Portfolios sind die elektronische Form von
+Portfolios und sollen mit Technologie den Lernenden helfen, ihren Lernprozess zu organisieren und zu reflektieren. 
+
+All diese Systeme werden wir in diesem Beitrag aus der Perspektive der pädagogischen Praxis beschreiben, indem wir
+skizzieren, welche Aufgaben diese Systeme übernehmen und wie solche Rahmenbedingungen gegebenenfalls das Lernen
+beeinflussen. Zum besseren Verständnis stellen wir diese Systeme als prototypische Konzepte vor. In der Praxis sind
+die realen Produkte oft weniger trennscharf konzipiert.

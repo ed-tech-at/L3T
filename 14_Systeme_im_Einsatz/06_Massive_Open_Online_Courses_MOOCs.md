@@ -3,22 +3,67 @@
 <!-- filename: 06_Massive_Open_Online_Courses_MOOCs.md -->
 <!-- title: Massive Open Online Courses (MOOCs) -->
 
-Sogenannte ‚Massive Open Online Courses‘ (siehe auch Kapitel #offeneslernen) haben – wie wenige Trends zuvor – innerhalb kurzer Zeit große Aufmerksamkeit errungen. Darunter werden frei zugängliche Online-Kurse verstanden, an denen sich sehr viele Lernende beteiligen können, und die häufig mit multimedialen Inhalten angeboten werden. Die Anzahl der Teilnehmer/innen eines Kurses variiert je nach Popularität des Kurses und der Vortragenden von wenigen hunderten bis über hunderttausend (Carson & Schmidt, 2012). Die Kurse und Kursmaterialien sind dabei immer häufiger auf eigens entwickelten Informationssystemen zugänglich. Sie sind im Vergleich zum LMS, dem E-Portfolio-System und der PLE wesentlich einfacher gestrickt: Neben einer Kursadministration, einer Benutzer/innen-Verwaltung und sehr wenigen Kommunikationswerkzeugen gibt es ein enges Korsett, in dem Kursinhalte zur Verfügung gestellt werden können: Bei Coursera, eine der bekanntesten MOOC-Plattformen, wird zum Beispiel ein Kurs in sequentielle Lerneinheiten aufgeteilt, die meistens mittels Video nacheinander präsentiert werden. Die Länge der Aufnahmen ist dabei auf maximal 15 Minuten beschränkt. Nach jeder Lerneinheit gibt es eine Überprüfung des Lernfortschritts, die in der Regel als Multiple-Choice-Test durchgeführt wird. Zum Schluss werden die Ergebnisse zusammengezählt und den Lernenden im Erfolgsfall ein Zertifikat überreicht. Diese Art von MOOCs inklusive der nötigen Systeme wird in der Literatur als xMOOC (Wedekind, 2013) bezeichnet. xMOOCs sind an regulären Universitäten und Hochschulen besonders in den USA weit verbreitet. Das vorangestellte „x“ steht für das englische Wort „extension“. Es wurde zum ersten Mal von der Universität Harvard verwendet, um die Online-Variante ihrer Kurse von den Originalkursen zu unterscheiden.
 
-xMOOCs werden derzeit meistens von Hochschulen und Universitäten in Einsatz genommen, wiewohl es auch vereinzelte Beispiele gibt, die von Privatpersonen oder Vereinen angeboten werden. Coursera, Udacity, Class2Go und edX sind die größten xMOOC-Plattformen im angloamerikanischen Raum, während zum Beispiel iversity versucht, in D-A-CH Fuß zu fassen.
+Sogenannte ‚Massive Open Online Courses‘ (siehe auch Kapitel #offeneslernen) haben – wie wenige Trends zuvor – innerhalb
+kurzer Zeit große Aufmerksamkeit errungen. Darunter werden frei zugängliche Online-Kurse verstanden, an denen sich sehr
+viele Lernende beteiligen können, und die häufig mit multimedialen Inhalten angeboten werden. Die Anzahl der
+Teilnehmer/innen eines Kurses variiert je nach Popularität des Kurses und der Vortragenden von wenigen hunderten bis
+über hunderttausend (Carson & Schmidt, 2012). Die Kurse und Kursmaterialien sind dabei immer häufiger auf eigens
+entwickelten Informationssystemen zugänglich. Sie sind im Vergleich zum LMS, dem E-Portfolio-System und der PLE
+wesentlich einfacher gestrickt: Neben einer Kursadministration, einer Benutzer/innen-Verwaltung und sehr wenigen
+Kommunikationswerkzeugen gibt es ein enges Korsett, in dem Kursinhalte zur Verfügung gestellt werden können: Bei
+Coursera, eine der bekanntesten MOOC-Plattformen, wird zum Beispiel ein Kurs in sequentielle Lerneinheiten aufgeteilt,
+die meistens mittels Video nacheinander präsentiert werden. Die Länge der Aufnahmen variiert dabei, liegt jedoch meist
+bei maximal 15 Minuten. Beim überwiegenden Teil der Lerneinheiten gibt es eine Überprüfung des Lernfortschritts, die in der Regel als
+Multiple-Choice-Test durchgeführt wird. Zum Schluss werden die Ergebnisse zusammengezählt und den Lernenden im
+Erfolgsfall ein Zertifikat überreicht. Diese Art von MOOCs inklusive der nötigen Systeme wird in der Literatur als
+xMOOC (Wedekind, 2013) bezeichnet. xMOOCs sind an regulären Universitäten und Hochschulen besonders in den USA weit
+verbreitet. Das vorangestellte „x“ steht für das englische Wort „extension“. Es wurde zum ersten Mal von der Universität
+Harvard verwendet, um die Online-Variante ihrer Kurse von den Originalkursen zu unterscheiden.
+
+xMOOCs werden derzeit meistens von Hochschulen und Universitäten in Einsatz genommen, wiewohl es auch vereinzelte
+Beispiele gibt, die von Privatpersonen oder Vereinen angeboten werden. Coursera, Udacity, FutureLearn und edX sind die
+größten xMOOC-Plattformen im englischsprachigen Raum, während unter anderen iversity versucht, in D-A-CH Fuß zu fassen.
+Außerdem gibt es auch die österreichische Plattform iMOOX, die kostenlose und aufgrund von Creative-Commons-Lizenzen
+(siehe Kapitel #openness) auch weiterverwendbare Kurse und Inhalte auf Hochschul-Niveau anbietet. 
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
 ### !
 
-MOOC-Systeme, die vorrangig xMOOCs unterstützen sollen, bestehen aus einer einfachen Kursverwaltung, einer Benutzer/innen-Verwaltung, wenigen Kommunikationswerkzeugen (Diskussionsforen) und einer einfachen Form, Webinhalte zur Verfügung zu stellen.
+MOOC-Systeme, die vorrangig xMOOCs unterstützen sollen, bestehen aus einer einfachen Kursverwaltung, einer
+Benutzer/innen-Verwaltung, wenigen Kommunikationswerkzeugen (Diskussionsforen) und einer einfachen Form, Webinhalte zur
+Verfügung zu stellen.
 
 </blockquote>
 
-Im Gegensatz zu den xMOOCs kennt man in der Literatur auch sogenannte cMOOCs. cMOOCs sind eher als Online-Workshops oder Online-Seminare anzusehen. Dabei werden den Kursteilnehmenden zu Beginn jeder Kurseinheit einige im Web frei verfügbare Ressourcen, wie Texte, Videos, Präsentationen, zur Verfügung gestellt oder auch Live-Online-Events veranstaltet. Die Teilnehmenden sind dann aufgefordert, selbst aktiv zu werden, indem sie weitere Ressourcen (Lernergebnisse) in Form von Blogbeiträgen, Tweets, Videos, Podcasts, etc. erstellen. Diese neu erstellten Inhalte sind für alle Teilnehmenden sichtbar und werden in der Regel von einem großen Anteil der Teilnehmenden kommentiert und diskutiert. Dadurch entsteht eine starke Vernetzung zwischen den Teilnehmer/innen selbst und den Teilnehmer/innen und deren Inhalten. Das Konzept der cMOOCs basiert auf dem Konnektivismus (siehe Kapitel #lerntheorien) und dieser ist der Ausgangspunkt von cMOOCs (Siemens, 2005), daher das vorangestellte „c“. Systemisch betrachtet, basiert dieses Konzept in der Regel stark auf der Verwendung von RSS-Technologien (siehe Kapitel #grundlagen), indem sämtliche Online-Beiträge entsprechend aggregiert und auf einer zentralen Plattform dargestellt werden. Für cMOOCs ist vor allem die Software von Stephen Downes gRSShopper bekannt, die technisch gesehen eine Website mit RSS-Aggregator und Benutzer/innen-Verwaltung darstellt.
+Im Gegensatz zu den xMOOCs kennt man in der Literatur auch sogenannte cMOOCs. cMOOCs sind eher als Online-Workshops
+oder Online-Seminare anzusehen. Dabei werden den Kursteilnehmenden zu Beginn jeder Kurseinheit einige im Web frei
+verfügbare Ressourcen, wie Texte, Videos, Präsentationen, zur Verfügung gestellt oder auch Live-Online-Events
+veranstaltet. Die Teilnehmenden sind dann aufgefordert, selbst aktiv zu werden, indem sie weitere Ressourcen
+(Lernergebnisse) in Form von Blogbeiträgen, Tweets, Videos, Podcasts, etc. erstellen. Diese neu erstellten Inhalte
+sind für alle Teilnehmenden sichtbar und werden in der Regel von einem großen Anteil der Teilnehmenden kommentiert und
+diskutiert. Dadurch entsteht eine starke Vernetzung zwischen den Teilnehmer/innen selbst und den Teilnehmer/innen und
+deren Inhalten. Das Konzept der cMOOCs basiert auf dem Konnektivismus (siehe Kapitel #lerntheorien) und dieser ist der
+Ausgangspunkt von cMOOCs (Siemens, 2005), daher das vorangestellte „c“. Systemisch betrachtet, basiert dieses Konzept
+in der Regel stark auf der Verwendung von RSS-Technologien (siehe Kapitel #grundlagen), indem sämtliche Online-Beiträge
+entsprechend aggregiert und auf einer zentralen Plattform dargestellt werden. Für cMOOCs ist vor allem die Software von
+Stephen Downes gRSShopper bekannt, die technisch gesehen eine Website mit RSS-Aggregator und Benutzer/innen-Verwaltung
+darstellt.
 
 ## Auswirkungen auf die Gestaltung des Lernens und Lehrens
 
-Beiden MOOC-Typen gemeinsam ist, dass die Lerneinheiten nach einem bestimmten Zeitplan veröffentlicht werden, also dass sie wirkliche Kursform haben. Die Teilnehmenden haben bis zu einer Deadline Zeit, eine Lerneinheit zu absolvieren, was zu mehr zeitlicher Flexibilität bei den Lernenden führt. MOOCs ermöglichen damit vielen Lernenden und Interessierten einen neuen Weg, über ihre geographischen Grenzen hinweg an einem Kurs teilzunehmen. Daher ist für die Teilnehmenden die räumliche Flexibilität auch gegeben. Insbesondere bei xMOOCs ist der Ablauf jedoch sehr strikt nach dem Schema Input, Aufgabe, Test. Von konnektivistischen Ansätzen ist hier wenig zu erkennen beziehungsweise auch durch die typische hohe Anzahl der Teilnehmenden auch gar nicht möglich (Khalil & Ebner, 2013a). Ähnlich schaut es mit der Kommunikation zwischen Lehrenden und Lernenden aus, die so gut wie nicht existiert (Khalil & Ebner, 2013b).
+Beiden MOOC-Typen gemeinsam ist, dass die Lerneinheiten nach einem bestimmten Zeitplan veröffentlicht werden, also dass
+sie wirkliche Kursform haben. Die Teilnehmenden haben bis zu einer Deadline Zeit, eine Lerneinheit zu absolvieren, was
+zu mehr zeitlicher Flexibilität bei den Lernenden führt. MOOCs ermöglichen damit vielen Lernenden und Interessierten
+einen neuen Weg, über ihre geographischen Grenzen hinweg an einem Kurs teilzunehmen. Daher ist für die Teilnehmenden
+die räumliche Flexibilität auch gegeben. Insbesondere bei xMOOCs ist der Ablauf jedoch sehr strikt nach dem Schema Input,
+Aufgabe, Test. Von konnektivistischen Ansätzen ist hier wenig zu erkennen beziehungsweise auch durch die typische hohe
+Anzahl der Teilnehmenden auch gar nicht möglich (Khalil & Ebner, 2013a). Ähnlich schaut es mit der Kommunikation
+zwischen Lehrenden und Lernenden aus, die so gut wie nicht existiert (Khalil & Ebner, 2013b).
 
-MOOCs verlangen ein hohes Maß an Selbstdisziplin beim Lernen. Wenn auch die Zeiten strikt vorgegeben werden, zeigt sich, dass die Drop-out-Rate sehr hoch und insbesondere bei einer hohen Anzahl an Teilnehmenden nur schwer in den Griff zu bekommen ist. Zusätzlich ist es für Lehrende schwer, die tatsächliche Anzahl zu ermitteln, da sich aufgrund der freien Zugänglichkeit auch viele Neugierige und Interessierte in den Kursen tummeln (Wang, 2012) oder durch fehlende Anerkennung der Zertifikate deren Abschluss nicht primär im Mittelpunkt steht.
+MOOCs verlangen ein hohes Maß an Selbstdisziplin beim Lernen. Wenn auch die Zeiten strikt vorgegeben werden, zeigt sich,
+dass die Drop-out-Rate sehr hoch und insbesondere bei einer hohen Anzahl an Teilnehmenden nur schwer in den Griff zu
+bekommen ist. Zusätzlich ist es für Lehrende schwer, die tatsächliche Anzahl zu ermitteln, da sich aufgrund der freien
+Zugänglichkeit auch viele Neugierige und Interessierte in den Kursen tummeln (Wang, 2012) oder durch fehlende
+Anerkennung der Zertifikate deren Abschluss nicht primär im Mittelpunkt steht.
